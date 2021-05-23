@@ -18,7 +18,7 @@ Experience
 ======
 * Summer 2018: Research Assistant
   * UC Santa Barbara
-  * Contributions: Tensor network contraction ordering
+  * Contributions: Polynomial algorithm for tensor tree contraction ordering
   * Supervisor: Professor Yuan Xie
 
 
@@ -41,13 +41,13 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 -->
-
+<!--
 Teaching
 ======
 * CMPSC 8, Introduction to Computer Science, 2019 Fall
 * CMPSC 165A, Artificial Intelligence, 2020 Winter
 * CMPSC 165A, Artificial Intelligence, 2020 Spring
-  
+-->  
 Honors and Awards
 ======
 * Excellent Undergraduate Student Award, Tsinghua University (ranked Top 5%), 2019

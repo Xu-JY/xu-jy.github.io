@@ -1,3 +1,4 @@
+<!--
 ---
 
 title: "CMPSC 8, Introduction to Computer Science"
@@ -10,3 +11,4 @@ date: 2019-10-01
 
 Helped junior CS or non-CS-major students program with Python.
 
+-->
