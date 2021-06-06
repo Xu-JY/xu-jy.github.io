@@ -1,3 +1,4 @@
+<!--
 ---
 layout: archive
 title: "CV"
@@ -33,7 +34,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->
 <!--
 Talks
 ======
@@ -48,6 +49,7 @@ Teaching
 * CMPSC 165A, Artificial Intelligence, 2020 Winter
 * CMPSC 165A, Artificial Intelligence, 2020 Spring
 -->  
+<!--
 Honors and Awards
 ======
 * Excellent Undergraduate Student Award, Tsinghua University (ranked Top 5%), 2019
@@ -60,3 +62,4 @@ Honors and Awards
 * First Prizes, National Senior High School Mathematical Contest, 2013 & 2014
   * **Provincial Champion** out of 1500+ participants (and of 20,000+ preliminaries)
 
+-->
