@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-feature-based-dynamic-pricing
 excerpt: 'We propose log-regret algorithms for online linear feature dynamic pricing problems. We also prove that even a slightly weakening of assumptions would lead to an unavoidable exponential regret increasing.'
 date: 2021-12-06
-venue: 'NeurIPS 2021' (**Spotlight**)
+venue: 'NeurIPS 2021 (*Spotlight*)'
 paperurl: 'https://arxiv.org/abs/2102.10221'
 citation: 'Jianyu Xu, and Yu-Xiang Wang. "Logarithmic Regret in Feature-based Dynamic Pricing." <i>arXiv preprint arXiv:2102.10221</i> (2021).'
 ---
