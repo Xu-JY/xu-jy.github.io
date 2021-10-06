@@ -14,4 +14,4 @@ redirect_from:
 
  &nbsp; &nbsp; I have a variety of **research interests**, including: dynamic pricing, multi-armed/contextual bandits, tensor networks, computational complexity, etc. My current work is a combination of pricing and bandits problem. -->
 
-&nbsp; &nbsp; My current **research interest** is dynamic pricing. My goal is to seek for statistical/computational methods to improve our comprehension on marketing process while also applying information theory to show the limitations. During my undergraduate, I spent some time on tensors and computational complexity.
+&nbsp; &nbsp; My current **research interest** is dynamic pricing. My goal is to seek for statistical and computational methods to improve our comprehension on marketing process while also applying information theory to show the limitations. During my undergraduate, I spent some time on tensors and computational complexity.
