@@ -2,7 +2,7 @@
 layout: archive
 title: "First-Author Publications"
 permalink: /publications/
-author_profile: false
+author_profile: true
 ---
 
 <!--{% if author.googlescholar %} -->
