@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "First-Author Publications"
-permalink: /publications/
-author_profile: true
+<!-- permalink: /publications/-->
+<!-- author_profile: true -->
 ---
 
 <!--{% if author.googlescholar %} -->
