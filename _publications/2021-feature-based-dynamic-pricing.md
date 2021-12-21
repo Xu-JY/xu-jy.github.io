@@ -6,7 +6,7 @@ excerpt: 'We propose log-regret algorithms for online linear feature dynamic pri
 date: 2021-12-06
 venue: 'NeurIPS 2021 (*Spotlight*)'
 paperurl: 'https://arxiv.org/abs/2102.10221'
-citation: 'Jianyu Xu, and Yu-Xiang Wang. "Logarithmic Regret in Feature-based Dynamic Pricing." <i>arXiv preprint arXiv:2102.10221</i> (2021).'
+citation: 'Jianyu Xu, and Yu-Xiang Wang. "Logarithmic Regret in Feature-based Dynamic Pricing." <i>Thirty-Fifth Conference on Neural Information Processing Systems </i> (2021).'
 ---
 <!--Feature-based dynamic pricing is an increasingly popular model of setting prices for highly differentiated products with applications in digital marketing, online sales, real estate and so on. In this work we propose two algorithms that solves online linear-feature pricing problems with stochastic and adversarial features (respectively) within logarithmic regrets. A logarithmic regret also matches the lower bound. Besides, we also prove that even a slightly weakening of assumptions would lead to an unavoidable exponential increasing on the information-theoretic lower regret bound.-->
 
