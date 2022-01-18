@@ -1,17 +1,17 @@
 ---
 layout: archive
-title: "First-Author Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
 [Google Scholar](https://scholar.google.com/citations?user=3ubVhAMAAAAJ&hl=en)
 
-### Towards Agnostic Feature-based Dynamic Pricing: Linear Policies vs Linear Valuation with Unknown Noise. <br />
+### Towards Agnostic Feature-based Dynamic Pricing: Linear Policies vs Linear Valuation with Unknown Noise. <br /> (to be appear)
 **Jianyu Xu** and Yu-Xiang Wang. <br />
 in *AISTATS 2022*. (**Oral Presentation**)
 
-### Logarithmic Regret in Feature-based Dynamic Pricing. <br />
+### Logarithmic Regret in Feature-based Dynamic Pricing. ([link](https://arxiv.org/abs/2102.10221)) <br />
 **Jianyu Xu** and Yu-Xiang Wang. <br />
 in *NeurIPS 2021*. (**Spotlight Presentation**)
 
@@ -19,11 +19,11 @@ in *NeurIPS 2021*. (**Spotlight Presentation**)
 Ling Liang, **Jianyu Xu**, Lei Deng<sup>+</sup>, Mingyu Yan, Xing Hu, Zheng Zhang, Guoqi Li, Yuan Xie. <br />
 *IEEE Journal of Selected Topics in Signal Processing* 15, 574-586 (2021). (**Cover Paper**)
 
-### Towards a polynomial algorithm for optimal contraction sequence of tensor networks from trees. <br />
+### Towards a polynomial algorithm for optimal contraction sequence of tensor networks from trees. ([link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.043309)) <br />
 **Jianyu Xu**, Ling Liang, Lei Deng<sup>+</sup>, Changyun Wen, Yuan Xie and Guoqi Li<sup>+</sup>. <br />
 *Physical Review E*, 100.4 (2019): 043309.
 
-### Towards a unified framework of matrix derivatives. <br />
+### Towards a unified framework of matrix derivatives. ([link](https://ieeexplore.ieee.org/abstract/document/8453264)) <br />
 **Jianyu Xu**, Guoqi Li, Changyun Wen, Kun Wu, Lei Deng. <br />
 *IEEE Access*, 6 (2018): 47922-47934.
 
