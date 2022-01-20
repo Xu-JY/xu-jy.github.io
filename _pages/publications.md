@@ -28,6 +28,16 @@ Ling Liang, **Jianyu Xu**, Lei Deng<sup>+</sup>, Mingyu Yan, Xing Hu, Zheng Zhan
 *IEEE Access*, 6 (2018): 47922-47934.
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4N2THRQ994"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4N2THRQ994');
+</script>
+
 
 <!--
 {% if author.googlescholar %} 
@@ -41,3 +51,4 @@ Ling Liang, **Jianyu Xu**, Lei Deng<sup>+</sup>, Mingyu Yan, Xing Hu, Zheng Zhan
 {% endfor %}
 
 -->
+
