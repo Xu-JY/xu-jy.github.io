@@ -16,12 +16,3 @@ redirect_from:
 
 &nbsp; &nbsp; My current **research interest** is dynamic pricing. My goal is to seek for statistical and computational methods to improve our comprehension on market process while also applying information theory to show the limitations. During my undergraduate, I spent some time on tensors and computational complexity.
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4N2THRQ994"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-4N2THRQ994');
-</script>
