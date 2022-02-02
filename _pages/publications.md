@@ -7,7 +7,7 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.com/citations?user=3ubVhAMAAAAJ&hl=en)
 
-### Towards Agnostic Feature-based Dynamic Pricing: Linear Policies vs Linear Valuation with Unknown Noise. <br /> (to be appear)
+### Towards Agnostic Feature-based Dynamic Pricing: Linear Policies vs Linear Valuation with Unknown Noise. <br /> ([link](https://arxiv.org/abs/2201.11341))
 **Jianyu Xu** and Yu-Xiang Wang. <br />
 in *AISTATS 2022*. (**Oral Presentation**)
 
