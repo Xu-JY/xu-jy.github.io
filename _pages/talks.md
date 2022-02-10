@@ -19,7 +19,7 @@ author_profile: true
 
 &nbsp; ### Dynamic Pricing in High Dimensions, Nov 10th, 2020, UCSB. [slides](/talks/20201110_reading_group_slides.pdf)
 
-### Dynamic Pricing in Different Valuation Models, Mar 31st, 2021, UCSB. [slides](/talks/0331reading_group_slides.pdf) [notes](/talks/0331reading_group_notes.pdf)
+&nbsp; ### Dynamic Pricing in Different Valuation Models, Mar 31st, 2021, UCSB. [slides](/talks/0331reading_group_slides.pdf) [notes](/talks/0331reading_group_notes.pdf)
 
 ## Tutorials:
 
