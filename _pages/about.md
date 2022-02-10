@@ -14,5 +14,7 @@ redirect_from:
 
  &nbsp; &nbsp; I have a variety of **research interests**, including: dynamic pricing, multi-armed/contextual bandits, tensor networks, computational complexity, etc. My current work is a combination of pricing and bandits problem. -->
 
-&nbsp; &nbsp; My current **research interest** is dynamic pricing. My goal is to seek for statistical and computational methods to improve our comprehension on market process while also applying information theory to show the limitations. During my undergraduate, I spent some time on tensors and computational complexity.
+<!-- &nbsp; &nbsp; My current **research interest** is dynamic pricing. My goal is to seek for statistical and computational methods to improve our comprehension on market process while also applying information theory to show the limitations. During my undergraduate, I spent some time on tensors and computational complexity. -->
+
+&nbsp; &nbsp; My **research interest** lies broadly in **statistical machine learning**, including *online learning*, *online decision making* and *bandit* problems. Currently I am working on **dynamic pricing** problems, where our goal is to seek for statistical and computational methods to improve our comprehension on market process while also applying information theory to show the limitations. Besides, I also worked on tensors and computational complexities during my undergraduate.
 
