@@ -9,11 +9,11 @@ author_profile: true
 
 ### Towards Agnostic Feature-based Dynamic Pricing: Linear Policies vs Linear Valuation with Unknown Noise. <br /> ([link](https://arxiv.org/abs/2201.11341))
 **Jianyu Xu** and Yu-Xiang Wang. <br />
-in *AISTATS 2022*. (**Oral Presentation**)
+in *AISTATS 2022*. (**<span style="color:red">Plenary Oral Presentation</span>**)
 
 ### Logarithmic Regret in Feature-based Dynamic Pricing. ([link](https://arxiv.org/abs/2102.10221)) <br />
 **Jianyu Xu** and Yu-Xiang Wang. <br />
-in *NeurIPS 2021*. (**Spotlight Presentation**)
+in *NeurIPS 2021*. (**<span style="color:red">Spotlight Presentation</span>**)
 
 ### Fast Search of the Optimal Contraction Sequence in Tensor Networks. ([link](https://ieeexplore.ieee.org/document/9325533)) <br />
 Ling Liang, **Jianyu Xu**, Lei Deng<sup>+</sup>, Mingyu Yan, Xing Hu, Zheng Zhang, Guoqi Li, Yuan Xie. <br />

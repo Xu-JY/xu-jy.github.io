@@ -10,9 +10,9 @@ author_profile: true
 
 ## Conference Talks:
 
-&nbsp;&nbsp;       Towards Agnostic Feature-based Dynamic Pricing: Linear Policies vs Linear Valuation with Unknown Noise, on AISTATS 2022. *(to be appear soon)*
+&nbsp;&nbsp;       [Towards Agnostic Feature-based Dynamic Pricing: Linear Policies vs Linear Valuation with Unknown Noise](https://virtual.aistats.org/virtual/2022/oral/3559), *plenary oral presentation* on AISTATS 2022.
 
-&nbsp;&nbsp;       [Logarithmic Regret in Feature-Based Dynamic Pricing](https://neurips.cc/virtual/2021/poster/27718), on NeurIPS 2021.
+&nbsp;&nbsp;       [Logarithmic Regret in Feature-Based Dynamic Pricing](https://neurips.cc/virtual/2021/poster/27718), *spotlight presentation* on NeurIPS 2021.
 
 
 ## Reading Group Presentations:
