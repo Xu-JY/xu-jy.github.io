@@ -17,7 +17,7 @@ in *NeurIPS 2021*. (**<span style="color:red">Spotlight Presentation</span>**)
 
 ### Fast Search of the Optimal Contraction Sequence in Tensor Networks. ([link](https://ieeexplore.ieee.org/document/9325533)) <br />
 Ling Liang, **Jianyu Xu**, Lei Deng<sup>+</sup>, Mingyu Yan, Xing Hu, Zheng Zhang, Guoqi Li, Yuan Xie. <br />
-*IEEE Journal of Selected Topics in Signal Processing* 15, 574-586 (2021). (**Cover Paper**)
+*IEEE Journal of Selected Topics in Signal Processing* 15, 574-586 (2021). (**<span style="color: red">Cover Paper</span>**)
 
 ### Towards a polynomial algorithm for optimal contraction sequence of tensor networks from trees. ([link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.043309)) <br />
 **Jianyu Xu**, Ling Liang, Lei Deng<sup>+</sup>, Changyun Wen, Yuan Xie and Guoqi Li<sup>+</sup>. <br />
