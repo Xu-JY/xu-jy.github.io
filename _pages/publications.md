@@ -7,6 +7,10 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.com/citations?user=3ubVhAMAAAAJ&hl=en)
 
+### Doubly Fair Dynamic Pricing. <br /> ([link](https://arxiv.org/abs/2209.11837))
+**Jianyu Xu**, Dan Qiao, and Yu-Xiang Wang. <br />
+*arXiv preprint* arXiv: 2209.11837.
+
 ### Towards Agnostic Feature-based Dynamic Pricing: Linear Policies vs Linear Valuation with Unknown Noise. <br /> ([link](https://arxiv.org/abs/2201.11341))
 **Jianyu Xu** and Yu-Xiang Wang. <br />
 in *AISTATS 2022*. (**<span style="color:red">Plenary Oral Presentation</span>**)
