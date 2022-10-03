@@ -13,7 +13,8 @@ author_profile: true
 
 ### Non-stationary Contextual Pricing with Safety Constraints. <br />
 Dheeraj Baby\*, **Jianyu Xu**\*, and Yu-Xiang Wang. <br />
-accepted to *Transactions on Machine Learning Research (TMLR)* (2022), available soon
+accepted to *Transactions on Machine Learning Research (TMLR)* 2022, available soon.
+(\* for equal contribution)
 
 ### Towards Agnostic Feature-based Dynamic Pricing: Linear Policies vs Linear Valuation with Unknown Noise. <br /> ([link](https://arxiv.org/abs/2201.11341))
 **Jianyu Xu** and Yu-Xiang Wang. <br />
