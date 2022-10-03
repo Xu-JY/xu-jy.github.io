@@ -11,6 +11,10 @@ author_profile: true
 **Jianyu Xu**, Dan Qiao, and Yu-Xiang Wang. <br />
 *arXiv preprint* arXiv: 2209.11837.
 
+### Non-stationary Contextual Pricing with Safety Constraints. <br />
+Dheeraj Baby\*, **Jianyu Xu**\*, and Yu-Xiang Wang. <br />
+accepted to *Transactions on Machine Learning Research (TMLR)* (2022), available soon
+
 ### Towards Agnostic Feature-based Dynamic Pricing: Linear Policies vs Linear Valuation with Unknown Noise. <br /> ([link](https://arxiv.org/abs/2201.11341))
 **Jianyu Xu** and Yu-Xiang Wang. <br />
 in *AISTATS 2022*. (**<span style="color:red">Plenary Oral Presentation</span>**)
