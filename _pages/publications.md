@@ -5,16 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=3ubVhAMAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=3ubVhAMAAAAJ&hl=en) <br />
+(\* for equal contribution)
+## Preprints and Working Papers
 
 ### Doubly Fair Dynamic Pricing. <br /> ([link](https://arxiv.org/abs/2209.11837))
 **Jianyu Xu**, Dan Qiao, and Yu-Xiang Wang. <br />
 *arXiv preprint* arXiv: 2209.11837.
 
-### Non-stationary Contextual Pricing with Safety Constraints. <br />
-Dheeraj Baby\*, **Jianyu Xu**\*, and Yu-Xiang Wang. <br />
-accepted to *Transactions on Machine Learning Research (TMLR)* 2022, available soon.
-(\* for equal contribution)
+### NP-hardness of Tensor Network Contraction Ordering. <br />
+**Jianyu Xu**, Hanwen Zhang, Lei Deng, Guoqi Li. <br />
+Under constructions.
+
+## Conference Papers
 
 ### Towards Agnostic Feature-based Dynamic Pricing: Linear Policies vs Linear Valuation with Unknown Noise. <br /> ([link](https://arxiv.org/abs/2201.11341))
 **Jianyu Xu** and Yu-Xiang Wang. <br />
@@ -23,6 +26,13 @@ in *AISTATS 2022*. (**<span style="color:red">Plenary Oral Presentation</span>**
 ### Logarithmic Regret in Feature-based Dynamic Pricing. ([link](https://arxiv.org/abs/2102.10221)) <br />
 **Jianyu Xu** and Yu-Xiang Wang. <br />
 in *NeurIPS 2021*. (**<span style="color:red">Spotlight Presentation</span>**)
+
+## Journal Papers
+
+### Non-stationary Contextual Pricing with Safety Constraints. <br />
+Dheeraj Baby\*, **Jianyu Xu**\*, and Yu-Xiang Wang. <br /> 
+*Transactions on Machine Learning Research (TMLR)* 2022, available soon.
+
 
 ### Fast Search of the Optimal Contraction Sequence in Tensor Networks. ([link](https://ieeexplore.ieee.org/document/9325533)) <br />
 Ling Liang, **Jianyu Xu**, Lei Deng<sup>+</sup>, Mingyu Yan, Xing Hu, Zheng Zhang, Guoqi Li, Yuan Xie. <br />

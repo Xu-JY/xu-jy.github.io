@@ -10,6 +10,8 @@ author_profile: true
 
 ## Conference Talks:
 
+&nbsp;&nbsp;       Linear Contextual Dynamic Pricing, on INFORMS 2022 Annual Meeting. [slides](/talks/INFORMS_2022.pdf)
+
 &nbsp;&nbsp;       [Towards Agnostic Feature-based Dynamic Pricing: Linear Policies vs Linear Valuation with Unknown Noise](https://virtual.aistats.org/virtual/2022/oral/3559), *plenary oral presentation* on AISTATS 2022. [slides](/talks/AISTATS_oral.pdf)
 
 &nbsp;&nbsp;       [Logarithmic Regret in Feature-Based Dynamic Pricing](https://neurips.cc/virtual/2021/poster/27718), *spotlight presentation* on NeurIPS 2021. [slides](/talks/Neurips_2021_log_regret.pdf)
