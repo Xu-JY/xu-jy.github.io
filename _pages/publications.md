@@ -9,7 +9,7 @@ author_profile: true
 (\* for equal contribution)
 ## Preprints and Working Papers
 
-### Doubly Fair Dynamic Pricing. <br /> ([link](https://arxiv.org/abs/2209.11837))
+### Doubly Fair Dynamic Pricing. ([link](https://arxiv.org/abs/2209.11837))
 **Jianyu Xu**, Dan Qiao, and Yu-Xiang Wang. <br />
 *arXiv preprint* arXiv: 2209.11837.
 
