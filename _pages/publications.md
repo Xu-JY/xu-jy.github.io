@@ -21,11 +21,11 @@ Under constructions.
 
 ### Towards Agnostic Feature-based Dynamic Pricing: Linear Policies vs Linear Valuation with Unknown Noise. <br /> ([link](https://arxiv.org/abs/2201.11341))
 **Jianyu Xu** and Yu-Xiang Wang. <br />
-in *AISTATS 2022*. (**<span style="color:red">Plenary Oral Presentation</span>**)
+in *AISTATS 2022*. (**<span style="color:red">Plenary Oral Presentation, top 3%</span>**)
 
 ### Logarithmic Regret in Feature-based Dynamic Pricing. ([link](https://arxiv.org/abs/2102.10221)) <br />
 **Jianyu Xu** and Yu-Xiang Wang. <br />
-in *NeurIPS 2021*. (**<span style="color:red">Spotlight Presentation</span>**)
+in *NeurIPS 2021*. (**<span style="color:red">Spotlight Presentation, top 3%</span>**)
 
 ## Journal Papers
 
