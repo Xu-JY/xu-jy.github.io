@@ -31,5 +31,7 @@ Dec 2022. &nbsp; &nbsp; &nbsp; &nbsp; Very glad to serve as a *session chair* on
 
 Nov 2022. &nbsp; &nbsp; &nbsp; &nbsp; One paper got accepted by TMLR. Thanks [Dheeraj](https://dheeraj-b.github.io/home/) and Yu-Xiang!
 
+Oct 2022. &nbsp; &nbsp; &nbsp; &nbsp; Glad to receive an **Outstanding Reviewer Award** at **NeurIPS 2022**!
+
 Oct 2022. &nbsp; &nbsp; &nbsp; &nbsp; Give a talk at **INFORMS 2022**. A new experience to contact with OR/MS/Econ people.
 
