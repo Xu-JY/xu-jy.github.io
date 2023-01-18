@@ -25,11 +25,11 @@ redirect_from:
 <br /><br />
 # News and Events
 
-&nbsp; &nbsp; Jan 2023. &nbsp; &nbsp; &nbsp; &nbsp; Happy to serve as a reviewer of Management Science for the first time!
+Jan 2023. &nbsp; &nbsp; &nbsp; &nbsp; Happy to serve as a reviewer of Management Science for the first time!
 
-&nbsp; &nbsp; Dec 2022. &nbsp; &nbsp; &nbsp; &nbsp; Very glad to serve as a *session chair* on **NeurIPS 2022**!! I will lead discussion on two oral papers on bandits and decision-making.
+Dec 2022. &nbsp; &nbsp; &nbsp; &nbsp; Very glad to serve as a *session chair* on **NeurIPS 2022**!! I will lead discussion on two oral papers on bandits and decision-making.
 
-&nbsp; &nbsp; Nov 2022. &nbsp; &nbsp; &nbsp; &nbsp; One paper got accepted by TMLR. Thanks [Dheeraj](https://dheeraj-b.github.io/home/) and Yu-Xiang!
+Nov 2022. &nbsp; &nbsp; &nbsp; &nbsp; One paper got accepted by TMLR. Thanks [Dheeraj](https://dheeraj-b.github.io/home/) and Yu-Xiang!
 
-&nbsp; &nbsp; Oct 2022. &nbsp; &nbsp; &nbsp; &nbsp; Give a talk at **INFORMS 2022**. A new experience to contact with OR/MS/Econ people.
+Oct 2022. &nbsp; &nbsp; &nbsp; &nbsp; Give a talk at **INFORMS 2022**. A new experience to contact with OR/MS/Econ people.
 
