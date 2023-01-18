@@ -21,3 +21,20 @@ redirect_from:
 &nbsp; &nbsp; My <u>research interest</u> lies broadly in **statistical machine learning** and **online decision-making**, with emphasis in **dynamic pricing** and **bandits** problems. My [most recent work](https://arxiv.org/pdf/2209.11837.pdf) is on the fairness of pricing. Besides, I also worked on tensors and computational compexities during my undergraduate.
 
 &nbsp; &nbsp; Please find my latest CV [here](/files/CV_Jianyu_Xu_2022.pdf).
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+
+# News and Events
+
+&nbsp; &nbsp; Jan 2023. &nbsp; &nbsp; &nbsp; &nbsp; Happy to serve as a reviewer of Management Science for the first time!
+
+&nbsp; &nbsp; Dec 2022. &nbsp; &nbsp; &nbsp; &nbsp; Very glad to serve as a *session chair* on **NeurIPS 2022**!! I will lead discussion on two oral papers on bandits and decision-making.
+
+&nbsp; &nbsp; Nov 2022. &nbsp; &nbsp; &nbsp; &nbsp; One paper got accepted by TMLR. Thanks [Dheeraj](https://dheeraj-b.github.io/home/) and Yu-Xiang!
+
+&nbsp; &nbsp; Oct 2022. &nbsp; &nbsp; &nbsp; &nbsp; Give a talk at **INFORMS 2022**. A new experience to contact with OR/MS/Econ people.
+
