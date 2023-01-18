@@ -23,11 +23,6 @@ redirect_from:
 &nbsp; &nbsp; Please find my latest CV [here](/files/CV_Jianyu_Xu_2022.pdf).
 <br /><br />
 <br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-
 # News and Events
 
 &nbsp; &nbsp; Jan 2023. &nbsp; &nbsp; &nbsp; &nbsp; Happy to serve as a reviewer of Management Science for the first time!
