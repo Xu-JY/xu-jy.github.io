@@ -9,15 +9,17 @@ author_profile: true
 (\* for equal contribution)
 ## Preprints and Working Papers
 
-### Doubly Fair Dynamic Pricing. ([link](https://arxiv.org/abs/2209.11837))
-**Jianyu Xu**, Dan Qiao, and Yu-Xiang Wang. <br />
-*arXiv preprint* arXiv: 2209.11837.
+
 
 ### NP-hardness of Tensor Network Contraction Ordering. <br />
 **Jianyu Xu**, Hanwen Zhang, Lei Deng, Guoqi Li. <br />
 Under constructions.
 
 ## Conference Papers
+
+### Doubly Fair Dynamic Pricing. ([link](https://arxiv.org/abs/2209.11837))
+**Jianyu Xu**, Dan Qiao, and Yu-Xiang Wang. <br />
+in *AISTATS 2023*, arXiv: 2209.11837.
 
 ### Towards Agnostic Feature-based Dynamic Pricing: Linear Policies vs Linear Valuation with Unknown Noise. <br /> ([link](https://arxiv.org/abs/2201.11341))
 **Jianyu Xu** and Yu-Xiang Wang. <br />

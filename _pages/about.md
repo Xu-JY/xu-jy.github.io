@@ -23,15 +23,22 @@ redirect_from:
 &nbsp; &nbsp; Please find my latest CV [here](/files/CV_Jianyu_Xu_2022.pdf).
 <br /><br />
 <br /><br />
+
 # News and Events
 
-Jan 2023. &nbsp; &nbsp; &nbsp; &nbsp; Happy to serve as a reviewer of Management Science for the first time!
+Jan 2023. &nbsp; &nbsp; &nbsp; &nbsp; Our paper *Doubly fair dynamic pricing* got accepted to *AISTATS 2023*!
 
-Dec 2022. &nbsp; &nbsp; &nbsp; &nbsp; Very glad to serve as a *session chair* on **NeurIPS 2022**!! I will lead discussion on two oral papers on bandits and decision-making.
+Jan 2023. &nbsp; &nbsp; &nbsp; &nbsp; Happy to serve as a reviewer of *Management Science* for the first time!
 
-Nov 2022. &nbsp; &nbsp; &nbsp; &nbsp; One paper got accepted by TMLR. Thanks [Dheeraj](https://dheeraj-b.github.io/home/) and Yu-Xiang!
+Dec 2022. &nbsp; &nbsp; &nbsp; &nbsp; Very glad to serve as a **session chair** on *NeurIPS 2022*!! I will lead discussion on two oral papers on bandits and decision-making.
 
-Oct 2022. &nbsp; &nbsp; &nbsp; &nbsp; Glad to receive an **Outstanding Reviewer Award** at **NeurIPS 2022**!
+Nov 2022. &nbsp; &nbsp; &nbsp; &nbsp; One paper got accepted by *TMLR*. Thanks [Dheeraj](https://dheeraj-b.github.io/home/) and Yu-Xiang!
 
-Oct 2022. &nbsp; &nbsp; &nbsp; &nbsp; Give a talk at **INFORMS 2022**. A new experience to contact with OR/MS/Econ people.
+Oct 2022. &nbsp; &nbsp; &nbsp; &nbsp; Glad to receive an **Outstanding Reviewer Award** at *NeurIPS 2022*!
+
+Oct 2022. &nbsp; &nbsp; &nbsp; &nbsp; Give a talk at *INFORMS 2022*. An exciting experience to contact with OR/MS/Econ people!
+
+Sep 2022. &nbsp; &nbsp; &nbsp; &nbsp; Complete my internship as an applied scientist at *Amazon* Retail Pricing!
+
+
 
