@@ -20,6 +20,10 @@ author_profile: true
 
 &nbsp; &nbsp; *NeurIPS* 2022, Oral Session Chair
 
+### Journal reviewers
+
+&nbsp; &nbsp; *Management Science*
+
 ### Conference reviewers
 
 &nbsp; &nbsp; *AISTATS* 2023, *NeurIPS* 2022, *ICML* 2022, *AISTATS* 2022, *NeurIPS* 2021
