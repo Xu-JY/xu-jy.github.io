@@ -1,10 +1,12 @@
+<!--
 ---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+-->
+<!--
 [Google Scholar](https://scholar.google.com/citations?user=3ubVhAMAAAAJ&hl=en) <br />
 (\* for equal contribution)
 ## Preprints and Working Papers
@@ -50,7 +52,7 @@ Ling Liang, **Jianyu Xu**, Lei Deng<sup>+</sup>, Mingyu Yan, Xing Hu, Zheng Zhan
 
 
 
-
+-->
 
 <!--
 {% if author.googlescholar %} 
