@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: "Experiences and Services"
