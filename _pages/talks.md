@@ -1,12 +1,11 @@
-<!--
+
 ---
 layout: archive
 title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
--->
-<!--
+
 ## Conference Talks:
 
 &nbsp;&nbsp;       Linear Contextual Dynamic Pricing, on INFORMS 2022 Annual Meeting. [slides](/talks/INFORMS_2022.pdf)
@@ -29,7 +28,6 @@ author_profile: true
 
 &nbsp;&nbsp;       Dynamic Pricing, Jul 26th, 2021, AntGroup, Beijing, China. [slides](/talks/20210726_Dynamic_Pricing.pdf)
 
--->
 
 <!--
 {% if site.talkmap_link == true %}

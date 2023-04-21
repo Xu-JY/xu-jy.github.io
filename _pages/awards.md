@@ -1,12 +1,12 @@
-<!--
+
 ---
 layout: archive
 title: "Awards and Honors"
 permalink: /awards/
 author_profile: true
 ---
--->
-<!--
+
+
 &nbsp; &nbsp; 2022.10 &nbsp; &nbsp; &nbsp; &nbsp; NeurIPS 2022 Reviewer Award, (**Top 8%**)
 
 &nbsp; &nbsp; 2019.06 &nbsp; &nbsp; &nbsp; &nbsp; Excellent Undergraduate Student Award, *Tsinghua University* (**Top 5%**)
@@ -19,5 +19,4 @@ author_profile: true
 
 &nbsp; &nbsp; 2013 &amp; 2014 &nbsp; &nbsp; &nbsp; &nbsp; First Prices and **Provincial Champion** (2014), *Chinese High-School Mathematical Contest (CMC)*
 
--->
 
