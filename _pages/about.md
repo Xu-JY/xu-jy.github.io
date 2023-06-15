@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-&nbsp; &nbsp;  Welcome to my homepage! I am currently a fourth-year PhD candidate in Computer Science at University of California, Santa Barbara, where I am fortunately being advised by [Prof. Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/). Before that I got my B.S.E. at Tsinghua University in 2019.
+&nbsp; &nbsp;  Welcome to my homepage! I am currently a fourth-year PhD candidate in Computer Science at University of California, Santa Barbara, where I am fortunately being advised by [Prof. Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/). Before that, I got my B.S. (in Measurement & Control) from Tsinghua University in 2019.
 
 <!-- 
 &nbsp; &nbsp; My current **research interest** is dynamic pricing. My goal is to seek for statistical and discrete-mathematical methods to improve our comprehension on the price-demand relationships in the market.
 -->
 
-&nbsp; &nbsp; My <u>research interest</u> lies broadly in **statistical machine learning** and **online decision-making**, with emphasis in **dynamic pricing** and **bandits** problems. Besides, I also worked on tensors and computational complexities during my undergraduate. 
+&nbsp; &nbsp; My <u>research interest</u> lies broadly in **statistical machine learning** and **online decision-making**, with emphasis in **dynamic pricing** and **bandits** problems. Besides, I also worked on graph theory and tensors during my undergraduate. 
 
 &nbsp; &nbsp; Please find my latest CV [here](/files/CV_Jianyu_Xu_2023.pdf).
 <br /><br />
