@@ -20,6 +20,10 @@ arXiv: 2310.06140
 
 ## Conference Papers
 
+### TheoremQA: A Theorem-driven Question Answering dataset. ([link](https://arxiv.org/abs/2305.12524)) <br />
+Chen, Wenhu, Ming Yin, Max Ku, Elaine Wan, Xueguang Ma, **Jianyu Xu**, Tony Xia, Xinyi Wang, and Pan Lu. <br />
+in *EMNLP 2023*.
+
 ### Doubly Fair Dynamic Pricing. ([link](https://arxiv.org/abs/2209.11837))
 **Jianyu Xu**, Dan Qiao, and Yu-Xiang Wang. <br />
 in *AISTATS 2023*, arXiv: 2209.11837.
@@ -31,6 +35,9 @@ in *AISTATS 2022*. (**<span style="color:red">Plenary Oral Presentation, top 3%<
 ### Logarithmic Regret in Feature-based Dynamic Pricing. ([link](https://arxiv.org/abs/2102.10221)) <br />
 **Jianyu Xu** and Yu-Xiang Wang. <br />
 in *NeurIPS 2021*. (**<span style="color:red">Spotlight Presentation, top 3%</span>**)
+
+
+
 
 ## Journal Papers
 

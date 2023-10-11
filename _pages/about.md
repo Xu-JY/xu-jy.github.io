@@ -16,13 +16,13 @@ redirect_from:
 
 &nbsp; &nbsp; My <u>research interest</u> lies broadly in **statistical machine learning** and **online decision-making**, with emphasis in **dynamic pricing** problems. Besides, I also worked on graph theory and computational complexity during my undergraduate. 
 
-&nbsp; &nbsp; I am currently on the academic job market, seeking for **postdoctoral researcher positions**. Please find my latest CV [here](/files/CV_Jianyu_XU_postdoc.pdf).
+&nbsp; &nbsp; I am currently on the academic job market, seeking for **postdoctoral** positions. Please find my latest CV [here](/files/CV_Jianyu_XU_postdoc.pdf).
 <br /><br />
 <br /><br />
 
 # News and Events
 
-Oct 2023. &nbsp; &nbsp; &nbsp; &nbsp; Our delayed research results on [the NP-hardness of tensor network contraction ordering]() have been posted on Arxiv ultimately. It must be the most exciting work during my undergrad. Thanks Hanwen and all co-authors!
+Oct 2023. &nbsp; &nbsp; &nbsp; &nbsp; Our delayed research results on *the NP-hardness of tensor network contraction ordering* have been posted on Arxiv ultimately. It was the most exciting work during my undergrad. Thanks Hanwen and all co-authors!
 
 Oct 2023. &nbsp; &nbsp; &nbsp; &nbsp; One co-authored paper got accepted to EMNLP. Thanks Wenhu, Ming and other co-authors!
 
