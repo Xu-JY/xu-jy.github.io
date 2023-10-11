@@ -9,11 +9,14 @@ author_profile: true
 (\* for equal contribution)
 ## Preprints and Working Papers
 
+### Pricing with Contextual Elasticity and Heteroscedastic Valuation. <br />
+**Jianyu Xu**, Yu-Xiang Wang. <br />
+Working paper.
 
 
-### NP-hardness of Tensor Network Contraction Ordering. <br />
+### NP-hardness of Tensor Network Contraction Ordering. ([link](https://arxiv.org/abs/2310.06140)) <br />
 **Jianyu Xu**, Hanwen Zhang, Lei Deng, Guoqi Li. <br />
-Under constructions.
+arXiv: 2310.06140
 
 ## Conference Papers
 

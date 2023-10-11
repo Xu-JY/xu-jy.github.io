@@ -8,19 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-&nbsp; &nbsp;  Welcome to my homepage! I am currently a fourth-year PhD candidate in Computer Science at University of California, Santa Barbara, where I am fortunately being advised by [Prof. Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/). Before that, I got my B.S. (in Measurement & Control) from Tsinghua University in 2019.
+&nbsp; &nbsp;  Welcome to my homepage! I am currently a fifth-year PhD candidate in Computer Science at University of California, Santa Barbara, where I am fortunately being advised by [Prof. Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/). Before that, I got my B.S. (in Measurement & Control) from Tsinghua University in 2019, where I am advised by [Prof. Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
 
 <!-- 
 &nbsp; &nbsp; My current **research interest** is dynamic pricing. My goal is to seek for statistical and discrete-mathematical methods to improve our comprehension on the price-demand relationships in the market.
 -->
 
-&nbsp; &nbsp; My <u>research interest</u> lies broadly in **statistical machine learning** and **online decision-making**, with emphasis in **dynamic pricing** and **bandits** problems. Besides, I also worked on graph theory and tensors during my undergraduate. 
+&nbsp; &nbsp; My <u>research interest</u> lies broadly in **statistical machine learning** and **online decision-making**, with emphasis in **dynamic pricing** problems. Besides, I also worked on graph theory and computational complexity during my undergraduate. 
 
-&nbsp; &nbsp; Please find my latest CV [here](/files/CV_Jianyu_Xu_2023.pdf).
+&nbsp; &nbsp; I am currently on the academic job market, seeking for **postdoctoral researcher positions**. Please find my latest CV [here](/files/CV_Jianyu_XU_postdoc.pdf).
 <br /><br />
 <br /><br />
 
 # News and Events
+
+Oct 2023. &nbsp; &nbsp; &nbsp; &nbsp; Our delayed research results on [the NP-hardness of tensor network contraction ordering]() have been posted on Arxiv ultimately. It must be the most exciting work during my undergrad. Thanks Hanwen and all co-authors!
+
+Oct 2023. &nbsp; &nbsp; &nbsp; &nbsp; One co-authored paper got accepted to EMNLP. Thanks Wenhu, Ming and other co-authors!
 
 Mar 2023. &nbsp; &nbsp; &nbsp; &nbsp; Very glad to give a talk at LAMDA, Nanjing University!
 
