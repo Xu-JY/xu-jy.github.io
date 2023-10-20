@@ -9,16 +9,20 @@ author_profile: true
 (\* for equal contribution)
 ## Preprints and Working Papers
 
+### Data-driven Dynamic Pricing with procedural and sustantive fairness. <br />
+**Jianyu Xu**, Dan Qiao, Yining Wang, Xi Chen, Yu-Xiang Wang. <br />
+To be submitted to Operations Research.
+
 ### Pricing with Contextual Elasticity and Heteroscedastic Valuation. <br />
 **Jianyu Xu**, Yu-Xiang Wang. <br />
-Working paper.
+In Submission.
 
 
 ### NP-hardness of Tensor Network Contraction Ordering. ([link](https://arxiv.org/abs/2310.06140)) <br />
 **Jianyu Xu**, Hanwen Zhang, Lei Deng, Guoqi Li. <br />
 arXiv: 2310.06140
 
-## Conference Papers
+## Conference Publications
 
 ### TheoremQA: A Theorem-driven Question Answering dataset. ([link](https://arxiv.org/abs/2305.12524)) <br />
 Chen, Wenhu, Ming Yin, Max Ku, Elaine Wan, Xueguang Ma, **Jianyu Xu**, Tony Xia, Xinyi Wang, and Pan Lu. <br />
@@ -39,7 +43,7 @@ in *NeurIPS 2021*. (**<span style="color:red">Spotlight Presentation, top 3%</sp
 
 
 
-## Journal Papers
+## Journal Publications
 
 ### Non-stationary Contextual Pricing with Safety Constraints. <br />
 Dheeraj Baby\*, **Jianyu Xu**\*, and Yu-Xiang Wang. <br /> 
