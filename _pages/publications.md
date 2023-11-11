@@ -11,11 +11,11 @@ author_profile: true
 
 ### Data-driven Dynamic Pricing with procedural and sustantive fairness. <br />
 **Jianyu Xu**, Dan Qiao, Yining Wang, Xi Chen, Yu-Xiang Wang. <br />
-To be submitted to Operations Research.
+In submission to *Operations Research*.
 
 ### Pricing with Contextual Elasticity and Heteroscedastic Valuation. <br />
 **Jianyu Xu**, Yu-Xiang Wang. <br />
-In Submission.
+In Submission to *ICLR*.
 
 
 ### NP-hardness of Tensor Network Contraction Ordering. ([link](https://arxiv.org/abs/2310.06140)) <br />
