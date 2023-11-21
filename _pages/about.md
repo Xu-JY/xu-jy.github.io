@@ -22,6 +22,8 @@ redirect_from:
 
 # News and Events
 
+Nov 2023. &nbsp; &nbsp; &nbsp; &nbsp; Glad to receive the **Outstanding Reviewer Award** again at *NeurIPS*!
+
 Oct 2023. &nbsp; &nbsp; &nbsp; &nbsp; Glad to give a talk at INFORMS 2023 Annual Meeting! I present our research and results on pricing fairness. See you at WA14 session on Wednesday (Oct 18) morning!
 
 Oct 2023. &nbsp; &nbsp; &nbsp; &nbsp; Our delayed research results on *the NP-hardness of tensor network contraction ordering* have been posted on Arxiv ultimately. It was the most exciting work during my undergrad. Thanks Hanwen and all co-authors!

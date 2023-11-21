@@ -5,8 +5,9 @@ permalink: /awards/
 author_profile: true
 ---
 
+&nbsp; &nbsp; 2023.11 &nbsp; &nbsp; &nbsp; &nbsp; NeurIPS 2023 Top Reviewer Award, (**10%**)
 
-&nbsp; &nbsp; 2022.10 &nbsp; &nbsp; &nbsp; &nbsp; NeurIPS 2022 Reviewer Award, (**Top 8%**)
+&nbsp; &nbsp; 2022.10 &nbsp; &nbsp; &nbsp; &nbsp; NeurIPS 2022 Top Reviewer Award, (**8%**)
 
 &nbsp; &nbsp; 2019.06 &nbsp; &nbsp; &nbsp; &nbsp; Excellent Undergraduate Student Award, *Tsinghua University* (**Top 5%**)
 
