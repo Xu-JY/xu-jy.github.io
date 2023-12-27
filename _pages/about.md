@@ -16,7 +16,7 @@ redirect_from:
 
 &nbsp; &nbsp; My <u>research interest</u> lies broadly in statistical machine learning and online decision-making, with emphasis in **dynamic pricing** problems. Besides, I also worked on graph theory and computational complexity during my undergraduate. 
 
-&nbsp; &nbsp; I am currently on the academic job market, seeking for **Faculty** positions in Computer Science, Operations Management, and Data Science. Please find my latest CV [here](/files/CV_Jianyu_Xu_2311.pdf).
+&nbsp; &nbsp; I am currently on the academic job market, seeking for **Faculty** positions in Computer Science, Operations Management, and Data Science. Please find my latest CV [here](/files/CV_Jianyu_Xu_2312.pdf).
 <br /><br />
 <br /><br />
 
