@@ -13,9 +13,9 @@ author_profile: true
 **Jianyu Xu**, Dan Qiao, Yining Wang, Xi Chen, Yu-Xiang Wang. <br />
 In submission to *Operations Research*.
 
-### Pricing with Contextual Elasticity and Heteroscedastic Valuation. <br />
+### Pricing with Contextual Elasticity and Heteroscedastic Valuation. ([link](https://arxiv.org/abs/2312.15999)) <br />
 **Jianyu Xu**, Yu-Xiang Wang. <br />
-In Submission to *ICLR*.
+arXiv: 2312.15999.
 
 
 ### NP-hardness of Tensor Network Contraction Ordering. ([link](https://arxiv.org/abs/2310.06140)) <br />
