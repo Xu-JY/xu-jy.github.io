@@ -2,7 +2,7 @@
 title: "Towards a unified framework of matrix derivatives"
 collection: publications
 permalink: /publication/2018-matrix-derivatives
-excerpt: 'The difference and equivalence of two methods of calculating matrix function derivatives.'  
+# excerpt: 'The difference and equivalence of two methods of calculating matrix function derivatives.'  
 date: 2018-08-31
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8453264/'
