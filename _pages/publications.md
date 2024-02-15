@@ -11,7 +11,7 @@ author_profile: true
 
 ### Online Dynamic Pricing with Inventory-Censored Demands. <br />
 **Jianyu Xu**, Yining Wang, Xi Chen, Yu-Xiang Wang. <br />
-In submission to *EC*.
+In submission.
 
 ### Data-driven Dynamic Pricing with procedural and sustantive fairness. <br />
 **Jianyu Xu**, Dan Qiao, Yining Wang, Xi Chen, Yu-Xiang Wang. <br />
