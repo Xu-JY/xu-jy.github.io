@@ -15,7 +15,7 @@ In submission.
 
 ### Data-driven Dynamic Pricing with procedural and sustantive fairness. <br />
 **Jianyu Xu**, Dan Qiao, Yining Wang, Xi Chen, Yu-Xiang Wang. <br />
-In submission to *Operations Research*.
+In submission.
 
 ### Pricing with Contextual Elasticity and Heteroscedastic Valuation. ([link](https://arxiv.org/abs/2312.15999)) <br />
 **Jianyu Xu**, Yu-Xiang Wang. <br />

@@ -7,7 +7,7 @@ author_profile: true
 
 ## Internships in Industry
 
-### &nbsp;&nbsp;  2022.06 -- 2022.09 &nbsp;&nbsp;&nbsp;&nbsp; Applied Scientist intern at *Amazon.com*, Retail Pricing Research & Science team <br>
+### &nbsp;&nbsp;  Applied Scientist intern at *Amazon.com*, Retail Pricing Research & Science team <br>
 &nbsp;&nbsp;Develop next-gen algorithmic prototypes for Amazon retail pricing systems to escalate long-term revenue. Apply signal processing methods to simulate real-world demands for algorithm testing.
 
 <!-- ### &nbsp;&nbsp;  2021.07 -- 2021.10 &nbsp;&nbsp;&nbsp;&nbsp; Research intern at *AntGroup* (*Alibaba*) <br>
