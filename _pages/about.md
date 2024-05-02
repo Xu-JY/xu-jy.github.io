@@ -16,11 +16,13 @@ redirect_from:
 
 &nbsp; &nbsp; My <u>research interest</u> lies broadly in statistical machine learning and online decision-making, with emphasis in **dynamic pricing** problems. Besides, I also worked on graph theory and computational complexity during my undergraduate. 
 
-&nbsp; &nbsp; I am currently on the academic job market of Computer Science, Operations Management, and Data Science. Please find my latest CV [here](/files/CV_Jianyu_Xu_2402.pdf).
+&nbsp; &nbsp; Please find my latest CV [here](/files/CV_Jianyu_Xu_2405.pdf).
 <br /><br />
 <br /><br />
 
 # News and Events
+
+May 2024. &nbsp; &nbsp; &nbsp; &nbsp; Our paper "Pricing with Contextual Elasticity and Heteroscedastic Valuation" got accepted by **ICML 2024**! The preprint version is posted [here](https://arxiv.org/abs/2312.15999) on ArXiv.
 
 Nov 2023. &nbsp; &nbsp; &nbsp; &nbsp; Glad to receive the **Outstanding Reviewer Award** again at *NeurIPS*!
 

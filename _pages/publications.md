@@ -17,16 +17,16 @@ In submission.
 **Jianyu Xu**, Dan Qiao, Yining Wang, Xi Chen, Yu-Xiang Wang. <br />
 In submission.
 
-### Pricing with Contextual Elasticity and Heteroscedastic Valuation. ([link](https://arxiv.org/abs/2312.15999)) <br />
-**Jianyu Xu**, Yu-Xiang Wang. <br />
-arXiv: 2312.15999.
-
 
 ### NP-hardness of Tensor Network Contraction Ordering. ([link](https://arxiv.org/abs/2310.06140)) <br />
 **Jianyu Xu**, Hanwen Zhang, Lei Deng, Guoqi Li. <br />
 arXiv: 2310.06140
 
 ## Conference Publications
+
+### Pricing with Contextual Elasticity and Heteroscedastic Valuation. ([link](https://arxiv.org/abs/2312.15999)) <br />
+**Jianyu Xu**, Yu-Xiang Wang. <br />
+in *ICML 2024*.
 
 ### TheoremQA: A Theorem-driven Question Answering dataset. ([link](https://arxiv.org/abs/2305.12524)) <br />
 Chen, Wenhu, Ming Yin, Max Ku, Elaine Wan, Xueguang Ma, **Jianyu Xu**, Tony Xia, Xinyi Wang, and Pan Lu. <br />
