@@ -26,7 +26,7 @@ arXiv: 2310.06140
 
 ### Pricing with Contextual Elasticity and Heteroscedastic Valuation. ([link](https://arxiv.org/abs/2312.15999)) <br />
 **Jianyu Xu**, Yu-Xiang Wang. <br />
-in *ICML 2024*.
+in *ICML 2024*. (**<span style="color:red">Spotlight Presentation, top 3%</span>**)
 
 ### TheoremQA: A Theorem-driven Question Answering dataset. ([link](https://arxiv.org/abs/2305.12524)) <br />
 Chen, Wenhu, Ming Yin, Max Ku, Elaine Wan, Xueguang Ma, **Jianyu Xu**, Tony Xia, Xinyi Wang, and Pan Lu. <br />

@@ -24,7 +24,7 @@ redirect_from:
 
 # News and Events
 
-May 2024. &nbsp; &nbsp; &nbsp; &nbsp; Our paper "Pricing with Contextual Elasticity and Heteroscedastic Valuation" got accepted by **ICML 2024**! The preprint version is posted [here](https://arxiv.org/abs/2312.15999) on ArXiv.
+May 2024. &nbsp; &nbsp; &nbsp; &nbsp; Our paper "Pricing with Contextual Elasticity and Heteroscedastic Valuation" got accepted by *ICML 2024* and selected as **spotlight presentation** (top 3%)! The preprint version is posted [here](https://arxiv.org/abs/2312.15999) on ArXiv.
 
 Nov 2023. &nbsp; &nbsp; &nbsp; &nbsp; Glad to receive the **Outstanding Reviewer Award** again at *NeurIPS*!
 
