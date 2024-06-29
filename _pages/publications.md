@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!--
 [Google Scholar](https://scholar.google.com/citations?user=3ubVhAMAAAAJ&hl=en) <br />
 (\* for equal contribution)
 ## Preprints and Working Papers
@@ -21,7 +22,7 @@ In submission.
 ### NP-hardness of Tensor Network Contraction Ordering. ([link](https://arxiv.org/abs/2310.06140)) <br />
 **Jianyu Xu**, Hanwen Zhang, Lei Deng, Guoqi Li. <br />
 arXiv: 2310.06140
-
+-->
 ## Conference Publications
 
 ### Pricing with Contextual Elasticity and Heteroscedastic Valuation. ([link](https://arxiv.org/abs/2312.15999)) <br />
@@ -51,7 +52,7 @@ in *NeurIPS 2021*. (**<span style="color:red">Spotlight Presentation, top 3%</sp
 
 ### Non-stationary Contextual Pricing with Safety Constraints. <br />
 Dheeraj Baby\*, **Jianyu Xu**\*, and Yu-Xiang Wang. <br /> 
-*Transactions on Machine Learning Research (TMLR)* 2022, available soon.
+*TMLR* 2022, available soon.
 
 
 ### Fast Search of the Optimal Contraction Sequence in Tensor Networks. ([link](https://ieeexplore.ieee.org/document/9325533)) <br />
