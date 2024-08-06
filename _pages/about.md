@@ -7,25 +7,28 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!--
-&nbsp; &nbsp;  Welcome to my homepage! I am currently a fifth-year PhD candidate in Computer Science at University of California, Santa Barbara, where I am fortunately being advised by [Prof. Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/). Before that, I got my B.S. (in Measurement & Control) from Tsinghua University in 2019, where I am advised by [Prof. Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
--->
 
+&nbsp; &nbsp;  Welcome to my homepage! I just got my PhD in Computer Science at University of California, Santa Barbara, where I was fortunately being advised by [Prof. Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/). Before that, I got my B.S. (in Measurement & Control) from Tsinghua University in 2019, where I am advised by [Prof. Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
+
+<!--
 &nbsp; &nbsp;  Welcome to my homepage! I am currently a fifth-year PhD candidate in Computer Science at University of California, Santa Barbara, where I am fortunately being advised by Prof. Yu-Xiang Wang. Before that, I got my B.S. from Tsinghua University in 2019.
 
 &nbsp; &nbsp; My current **research interest** is dynamic pricing. My goal is to seek for statistical and discrete-mathematical methods to improve our comprehension on the price-demand relationships in the market.
+-->
 
 
-<!--
 &nbsp; &nbsp; My <u>research interest</u> lies broadly in statistical machine learning and online decision-making, with emphasis in **dynamic pricing** problems. Besides, I also worked on graph theory and computational complexity during my undergraduate. 
 
 &nbsp; &nbsp; Starting FALL 2024, I will be joining Carnegie Mellon University, Machine Learning Department as a postdoc, working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/) on *societal decision making*.
 
+<!--
 &nbsp; &nbsp; Please find my latest CV [here](/files/CV_Jianyu_Xu_2405.pdf).
 <br /><br />
 <br /><br />
-
+-->
 # News and Events
+
+Aug 2024. &nbsp; &nbsp; &nbsp; &nbsp; Successfully defended my PhD degree :-D
 
 May 2024. &nbsp; &nbsp; &nbsp; &nbsp; Our paper "Pricing with Contextual Elasticity and Heteroscedastic Valuation" got accepted by *ICML 2024* and selected as **spotlight presentation** (top 3%)! The preprint version is posted [here](https://arxiv.org/abs/2312.15999) on ArXiv.
 
@@ -55,4 +58,4 @@ Oct 2022. &nbsp; &nbsp; &nbsp; &nbsp; Give a talk at *INFORMS 2022*. An exciting
 Sep 2022. &nbsp; &nbsp; &nbsp; &nbsp; Complete my internship as an applied scientist at *Amazon* Retail Pricing!
 
 
--->
+

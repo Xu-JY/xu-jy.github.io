@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!--
+
 [Google Scholar](https://scholar.google.com/citations?user=3ubVhAMAAAAJ&hl=en) <br />
 (\* for equal contribution)
+<!--
 ## Preprints and Working Papers
 
 ### Online Dynamic Pricing with Inventory-Censored Demands. <br />
