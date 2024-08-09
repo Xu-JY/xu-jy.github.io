@@ -8,6 +8,7 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.com/citations?user=3ubVhAMAAAAJ&hl=en) <br />
 (\* for equal contribution)
+
 <!--
 ## Preprints and Working Papers
 
@@ -23,7 +24,9 @@ In submission.
 ### NP-hardness of Tensor Network Contraction Ordering. ([link](https://arxiv.org/abs/2310.06140)) <br />
 **Jianyu Xu**, Hanwen Zhang, Lei Deng, Guoqi Li. <br />
 arXiv: 2310.06140
+
 -->
+
 ## Conference Publications
 
 ### Pricing with Contextual Elasticity and Heteroscedastic Valuation. ([link](https://arxiv.org/abs/2312.15999)) <br />
