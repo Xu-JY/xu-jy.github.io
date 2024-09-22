@@ -29,7 +29,8 @@ author_profile: true
 
 ## Tutorials:
 
-&nbsp;&nbsp;       Dynamic Pricing as an Online Decision-Making Problem, Mar 2023, LAMDA, Nanjing, China.
+### Dynamic Pricing as an Online Decision-Making Problem
+In Ant Finance (2021.07), LAMDA (2023.03), Statistics Center at Academy of Science (2024.01).
 
 
 <!--

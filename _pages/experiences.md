@@ -11,14 +11,14 @@ author_profile: true
 
 
 &nbsp;&nbsp; Visiting Scholar at *Hong Kong University of Science and Technology*, Business School. <br>
-Hong Kong SAR, Summer 2024. <br>
+&nbsp;&nbsp; Hong Kong SAR, Summer 2024. <br>
 ### Industry
 
 &nbsp;&nbsp;  Applied Scientist intern at *Amazon.com*, Retail Pricing Research & Science team. <br>
-Seattle, Summer 2022. <br>
+&nbsp;&nbsp; Seattle, Summer 2022. <br>
 
 &nbsp;&nbsp; Research intern at *Ant Finance*, Stragetic Pricing & Promotion team. <br>
-Beijing & Hangzhou, Summer 2021.
+&nbsp;&nbsp; Beijing & Hangzhou, Summer 2021.
 
 <!--
 &nbsp;&nbsp;Develop next-gen algorithmic prototypes for Amazon retail pricing systems to escalate long-term revenue. Apply signal processing methods to simulate real-world demands for algorithm testing.
