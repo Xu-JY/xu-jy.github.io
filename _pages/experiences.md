@@ -5,9 +5,20 @@ permalink: /experiences/
 author_profile: true
 ---
 
-## Internships in Industry
+## Appointments
+### Academic
 
-### &nbsp;&nbsp;  Applied Scientist intern at *Amazon.com*, Retail Pricing Research & Science team <br>
+
+
+&nbsp;&nbsp; Visiting Scholar at *Hong Kong University of Science and Technology*, Business School. <br>
+Hong Kong SAR, Summer 2024. <br>
+### Industry
+
+&nbsp;&nbsp;  Applied Scientist intern at *Amazon.com*, Retail Pricing Research & Science team. <br>
+Seattle, Summer 2022. <br>
+
+&nbsp;&nbsp; Research intern at *Ant Finance*, Stragetic Pricing & Promotion team. <br>
+Beijing & Hangzhou, Summer 2021.
 
 <!--
 &nbsp;&nbsp;Develop next-gen algorithmic prototypes for Amazon retail pricing systems to escalate long-term revenue. Apply signal processing methods to simulate real-world demands for algorithm testing.
@@ -17,17 +28,14 @@ author_profile: true
 &nbsp;&nbsp;Develop coupon-distributing algorithms for attractions/promotions to new/sleeping/lost customers.
 -->
 ## Services
-<!--
+
+### Journal Reviewers
+
+&nbsp; &nbsp; *Management Science* (2022-)
 
 ### Conference Program Committee
 
 &nbsp; &nbsp; *NeurIPS* 2022, Oral Session Chair
-
 ### Conference Reviewers
 
 &nbsp; &nbsp; *AISTATS* (2022-), *NeurIPS* (2021-), *ICML* (2022-), *ICLR* (2023-).
-
--->
-### Journal Reviewers
-
-&nbsp; &nbsp; *Management Science* (2022-)

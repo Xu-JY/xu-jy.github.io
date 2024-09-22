@@ -9,12 +9,20 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?user=3ubVhAMAAAAJ&hl=en) <br />
 (\* for equal contribution)
 
-<!--
 ## Preprints and Working Papers
+
+
+<!--
+
+### Pricing and Allocation with Service-Level Concerns. <br />
+**Jianyu Xu**, Xuan Wang, Yu-Xiang Wang, Jiashuo Jiang. <br />
+Working paper.
+
 
 ### Online Dynamic Pricing with Inventory-Censored Demands. <br />
 **Jianyu Xu**, Yining Wang, Xi Chen, Yu-Xiang Wang. <br />
 In submission.
+
 
 ### Data-driven Dynamic Pricing with procedural and sustantive fairness. <br />
 **Jianyu Xu**, Dan Qiao, Yining Wang, Xi Chen, Yu-Xiang Wang. <br />
@@ -26,7 +34,6 @@ In submission.
 arXiv: 2310.06140
 
 -->
-
 ## Conference Publications
 
 ### Pricing with Contextual Elasticity and Heteroscedastic Valuation. ([link](https://arxiv.org/abs/2312.15999)) <br />
