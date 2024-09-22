@@ -12,7 +12,7 @@ redirect_from:
 
 &nbsp; &nbsp; Welcome to my homepage! I am a postdoc at Carnegie Mellon University, Machine Learning Department, working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/) on *societal decision making*.
 
-I recently got my PhD in Computer Science at UC Santa Barbara, advised by Prof. [Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/). Before that, I got my B.S. from Tsinghua University in 2019, advised by [Prof. Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
+&nbsp;&nbsp; I recently got my PhD in Computer Science at UC Santa Barbara, advised by Prof. [Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/). Before that, I got my B.S. from Tsinghua University in 2019, advised by [Prof. Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
 
 <!--
 &nbsp; &nbsp;  Welcome to my homepage! I just got my PhD in Computer Science at University of California, Santa Barbara, where I was fortunately being advised by [Prof. Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/). Before that, I got my B.S. (in Measurement & Control) from Tsinghua University in 2019, where I am advised by [Prof. Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
