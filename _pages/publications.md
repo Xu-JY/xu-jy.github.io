@@ -11,6 +11,17 @@ author_profile: true
 
 ## Preprints and Working Papers
 
+### Pricing and Allocation with Service-Level Concerns. <br />
+**Jianyu Xu**, Xuan Wang, Yu-Xiang Wang, Jiashuo Jiang. <br />
+Working paper.
+
+### Dynamic Pricing with Adversarial Inventories. <br />
+**Jianyu Xu**, Yining Wang, Xi Chen, Yu-Xiang Wang. <br />
+Working Paper.
+
+### Data-driven Dynamic Pricing with procedural and sustantive fairness. <br />
+**Jianyu Xu** et al. <br />
+Working Paper
 
 <!--
 
@@ -63,7 +74,7 @@ in *NeurIPS 2021*. (**<span style="color:red">Spotlight Presentation, top 3%</sp
 
 ### Non-stationary Contextual Pricing with Safety Constraints. <br />
 Dheeraj Baby\*, **Jianyu Xu**\*, and Yu-Xiang Wang. <br /> 
-*TMLR* 2022, available soon.
+on *TMLR* 2023.
 
 
 ### Fast Search of the Optimal Contraction Sequence in Tensor Networks. ([link](https://ieeexplore.ieee.org/document/9325533)) <br />

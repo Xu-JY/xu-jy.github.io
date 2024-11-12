@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-&nbsp; &nbsp; Welcome to my homepage! I am a postdoc at Carnegie Mellon University, Machine Learning Department, working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/) on *societal decision making*.
+&nbsp; &nbsp; Welcome to my homepage! I am a postdoctoral research associate at Carnegie Mellon University, Machine Learning Department, working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/) on *societal decision making*.
 
 &nbsp;&nbsp; I recently got my PhD in Computer Science at UC Santa Barbara, advised by Prof. [Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/). Before that, I got my B.S. from Tsinghua University in 2019, advised by [Prof. Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
 
@@ -26,7 +26,7 @@ redirect_from:
 -->
 
 
-&nbsp; &nbsp; My <u>research interest</u> lies broadly in statistical machine learning and online decision-making problems. My most recent projects are on **public health** and **dynamic pricing**. Besides, I also worked on graph theory and computational complexity during my undergraduate. 
+&nbsp; &nbsp; My <u>research interest</u> lies broadly in **statistical machine learning** and **online learning** problems. My most recent projects are on *dynamic pricing*. Besides, I also worked on graph theory and computational complexity during my undergraduate. 
 
 
 
@@ -37,34 +37,26 @@ redirect_from:
 -->
 # News and Events
 
+Oct 2024. &nbsp; &nbsp; &nbsp; &nbsp; I'm giving a talk on *adversarial dynamic pricing* at INFORMS 2024 Annual Meeting. See you at Seattle!
+
+Sep 2024. &nbsp; &nbsp; &nbsp; &nbsp; Very excited to join CMU MLD as a postdoc!
+
 Aug 2024. &nbsp; &nbsp; &nbsp; &nbsp; Successfully defended my PhD degree :-D
 
 May 2024. &nbsp; &nbsp; &nbsp; &nbsp; Our paper "Pricing with Contextual Elasticity and Heteroscedastic Valuation" got accepted by *ICML 2024* and selected as **spotlight presentation** (top 3%)! The preprint version is posted [here](https://arxiv.org/abs/2312.15999) on ArXiv.
 
 Nov 2023. &nbsp; &nbsp; &nbsp; &nbsp; Glad to receive the **Outstanding Reviewer Award** again at *NeurIPS*!
 
-Oct 2023. &nbsp; &nbsp; &nbsp; &nbsp; Glad to give a talk at INFORMS 2023 Annual Meeting! I present our research and results on pricing fairness. See you at WA14 session on Wednesday (Oct 18) morning!
+Oct 2023. &nbsp; &nbsp; &nbsp; &nbsp; I'm giving a talk on *pricing fairness* at INFORMS 2023 Annual Meeting. See you at Phoenix!
 
-Oct 2023. &nbsp; &nbsp; &nbsp; &nbsp; Our delayed research results on *the NP-hardness of tensor network contraction ordering* have been posted on Arxiv ultimately. It was the most exciting work during my undergrad. Thanks Hanwen and all co-authors!
+Oct 2023. &nbsp; &nbsp; &nbsp; &nbsp; Our delayed research results on *the NP-hardness of tensor network contraction ordering* have been posted on Arxiv ultimately.  Thanks Hanwen and all co-authors!
 
 Oct 2023. &nbsp; &nbsp; &nbsp; &nbsp; One co-authored paper got accepted to EMNLP. Thanks Wenhu, Ming and other co-authors!
 
-Mar 2023. &nbsp; &nbsp; &nbsp; &nbsp; Very glad to give a talk at LAMDA, Nanjing University!
+Mar 2023. &nbsp; &nbsp; &nbsp; &nbsp; Glad to give a talk at LAMDA, Nanjing University!
 
 Jan 2023. &nbsp; &nbsp; &nbsp; &nbsp; Our paper *Doubly fair dynamic pricing* got accepted to *AISTATS 2023*!
 
-Jan 2023. &nbsp; &nbsp; &nbsp; &nbsp; Happy to serve as a reviewer of *Management Science* for the first time!
-
-Dec 2022. &nbsp; &nbsp; &nbsp; &nbsp; Very glad to serve as a **session chair** on *NeurIPS 2022*!! I will lead discussion on two oral papers on bandits and decision-making.
-
-Nov 2022. &nbsp; &nbsp; &nbsp; &nbsp; One paper got accepted by *TMLR*. Thanks [Dheeraj](https://dheeraj-b.github.io/home/) and Yu-Xiang!
-
-
-Oct 2022. &nbsp; &nbsp; &nbsp; &nbsp; Glad to receive an **Outstanding Reviewer Award** at *NeurIPS 2022*!
-
-Oct 2022. &nbsp; &nbsp; &nbsp; &nbsp; Give a talk at *INFORMS 2022*. An exciting experience to contact with OR/MS/Econ people!
-
-Sep 2022. &nbsp; &nbsp; &nbsp; &nbsp; Complete my internship as an applied scientist at *Amazon* Retail Pricing!
-
+Jan 2023. &nbsp; &nbsp; &nbsp; &nbsp; Glad to serve as a reviewer of *Management Science* for the first time!
 
 
