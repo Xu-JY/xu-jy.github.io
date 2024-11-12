@@ -23,6 +23,10 @@ Working Paper.
 **Jianyu Xu** et al. <br />
 Working Paper
 
+### NP-hardness of Tensor Network Contraction Ordering. ([link](https://arxiv.org/abs/2310.06140)) <br />
+**Jianyu Xu**, Hanwen Zhang, Lei Deng, Guoqi Li. <br />
+arXiv: 2310.06140
+
 <!--
 
 ### Pricing and Allocation with Service-Level Concerns. <br />
