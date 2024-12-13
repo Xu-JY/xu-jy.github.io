@@ -38,13 +38,16 @@ author_profile: true
 -->
 ## Services
 
+### Conference Program Committee
+
+&nbsp; &nbsp; *ICML* 2025, Area Chair
+
+&nbsp; &nbsp; *NeurIPS* 2022, Oral Session Chair
+
 ### Journal Reviewers
 
 &nbsp; &nbsp; *Management Science* (2022-)
 
-### Conference Program Committee
-
-&nbsp; &nbsp; *NeurIPS* 2022, Oral Session Chair
 ### Conference Reviewers
 
 &nbsp; &nbsp; *AISTATS* (2022-), *NeurIPS* (2021-), *ICML* (2022-), *ICLR* (2023-).

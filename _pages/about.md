@@ -37,6 +37,8 @@ redirect_from:
 -->
 # News and Events
 
+Dec 2024. &nbsp; &nbsp; &nbsp; &nbsp; Glad to serve as an **Area Chair** in **ICML** 2025!
+
 Oct 2024. &nbsp; &nbsp; &nbsp; &nbsp; I'm giving a talk on *adversarial dynamic pricing* at INFORMS 2024 Annual Meeting. See you at Seattle!
 
 Sep 2024. &nbsp; &nbsp; &nbsp; &nbsp; Very excited to join CMU MLD as a postdoc!
