@@ -15,7 +15,7 @@ author_profile: true
 **Jianyu Xu**, Xuan Wang, Yu-Xiang Wang, Jiashuo Jiang. <br />
 arXiv: 2501.18049
 
-### Dynamic Pricing with Adversarial Inventories. <br />
+### Dynamic Pricing with Adversarially-Censored Demands. <br />
 **Jianyu Xu**, Yining Wang, Xi Chen, Yu-Xiang Wang. <br />
 Working Paper.
 

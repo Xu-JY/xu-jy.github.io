@@ -39,7 +39,7 @@ redirect_from:
 
 Jan 2025. &nbsp; &nbsp; &nbsp; &nbsp; Our manuscript ["Joint Pricing and Resource Allocation: An Optimal Online-Learning Approach"](https://arxiv.org/abs/2501.18049) is posted on ArXiv. Thanks to my collaborators Xuan, Yu-Xiang and Jiashuo!
 
-Jan 2025. &nbsp; &nbsp; &nbsp; &nbsp; Glad to serve as a reviewer for Journal of the American Statistical Association (JASA) !
+Jan 2025. &nbsp; &nbsp; &nbsp; &nbsp; Glad to serve as a reviewer for *Journal of the American Statistical Association* (JASA) !
 
 Dec 2024. &nbsp; &nbsp; &nbsp; &nbsp; Glad to serve as an **Area Chair** in **ICML** 2025!
 
@@ -53,6 +53,7 @@ May 2024. &nbsp; &nbsp; &nbsp; &nbsp; Our paper "Pricing with Contextual Elastic
 
 Nov 2023. &nbsp; &nbsp; &nbsp; &nbsp; Glad to receive the **Outstanding Reviewer Award** again at *NeurIPS*!
 
+<!--
 Oct 2023. &nbsp; &nbsp; &nbsp; &nbsp; I'm giving a talk on *pricing fairness* at INFORMS 2023 Annual Meeting. See you at Phoenix!
 
 Oct 2023. &nbsp; &nbsp; &nbsp; &nbsp; Our delayed research results on *the NP-hardness of tensor network contraction ordering* have been posted on Arxiv ultimately.  Thanks Hanwen and all co-authors!
@@ -64,5 +65,6 @@ Mar 2023. &nbsp; &nbsp; &nbsp; &nbsp; Glad to give a talk at LAMDA, Nanjing Univ
 Jan 2023. &nbsp; &nbsp; &nbsp; &nbsp; Our paper *Doubly fair dynamic pricing* got accepted to *AISTATS 2023*!
 
 Jan 2023. &nbsp; &nbsp; &nbsp; &nbsp; Glad to serve as a reviewer of *Management Science*!
+-->
 
 
