@@ -11,9 +11,9 @@ author_profile: true
 
 ## Preprints and Working Papers
 
-### Pricing and Allocation with Service-Level Concerns. <br />
+### Pricing and Allocation with Service-Level Concerns. ([link](https://arxiv.org/abs/2501.18049)) <br />
 **Jianyu Xu**, Xuan Wang, Yu-Xiang Wang, Jiashuo Jiang. <br />
-Working paper.
+arXiv: 2501.18049
 
 ### Dynamic Pricing with Adversarial Inventories. <br />
 **Jianyu Xu**, Yining Wang, Xi Chen, Yu-Xiang Wang. <br />

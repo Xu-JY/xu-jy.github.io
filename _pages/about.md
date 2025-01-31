@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-&nbsp; &nbsp; Welcome to my homepage! I am a postdoctoral research associate at Carnegie Mellon University, Machine Learning Department, working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/) on *societal decision making*.
+&nbsp; &nbsp; Welcome to my homepage! I am a postdoctoral research associate at Carnegie Mellon University, Machine Learning Department, working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/) on *online decision making*.
 
 &nbsp;&nbsp; I recently got my PhD in Computer Science at UC Santa Barbara, advised by Prof. [Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/). Before that, I got my B.S. from Tsinghua University in 2019, advised by [Prof. Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
 
@@ -37,6 +37,10 @@ redirect_from:
 -->
 # News and Events
 
+Jan 2025. &nbsp; &nbsp; &nbsp; &nbsp; Our manuscript ["Joint Pricing and Resource Allocation: An Optimal Online-Learning Approach"](https://arxiv.org/abs/2501.18049) is posted on ArXiv. Thanks to my collaborators Xuan, Yu-Xiang and Jiashuo!
+
+Jan 2025. &nbsp; &nbsp; &nbsp; &nbsp; Glad to serve as a reviewer for Journal of the American Statistical Association (JASA) !
+
 Dec 2024. &nbsp; &nbsp; &nbsp; &nbsp; Glad to serve as an **Area Chair** in **ICML** 2025!
 
 Oct 2024. &nbsp; &nbsp; &nbsp; &nbsp; I'm giving a talk on *adversarial dynamic pricing* at INFORMS 2024 Annual Meeting. See you at Seattle!
@@ -59,6 +63,6 @@ Mar 2023. &nbsp; &nbsp; &nbsp; &nbsp; Glad to give a talk at LAMDA, Nanjing Univ
 
 Jan 2023. &nbsp; &nbsp; &nbsp; &nbsp; Our paper *Doubly fair dynamic pricing* got accepted to *AISTATS 2023*!
 
-Jan 2023. &nbsp; &nbsp; &nbsp; &nbsp; Glad to serve as a reviewer of *Management Science* for the first time!
+Jan 2023. &nbsp; &nbsp; &nbsp; &nbsp; Glad to serve as a reviewer of *Management Science*!
 
 

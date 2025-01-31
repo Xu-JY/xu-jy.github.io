@@ -46,7 +46,7 @@ author_profile: true
 
 ### Journal Reviewers
 
-&nbsp; &nbsp; *Management Science* (2022-)
+&nbsp; &nbsp; *Management Science* (2022-), *Journal of the American Statistical Association* (2025-).
 
 ### Conference Reviewers
 
