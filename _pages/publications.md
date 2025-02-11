@@ -11,13 +11,13 @@ author_profile: true
 
 ## Preprints and Working Papers
 
+### Dynamic Pricing with Adversarially-Censored Demands. ([link](http://arxiv.org/abs/2502.06168)) <br />
+**Jianyu Xu**, Yining Wang, Xi Chen, Yu-Xiang Wang. <br />
+arXiv: 2502.06168
+
 ### Pricing and Allocation with Service-Level Concerns. ([link](https://arxiv.org/abs/2501.18049)) <br />
 **Jianyu Xu**, Xuan Wang, Yu-Xiang Wang, Jiashuo Jiang. <br />
 arXiv: 2501.18049
-
-### Dynamic Pricing with Adversarially-Censored Demands. <br />
-**Jianyu Xu**, Yining Wang, Xi Chen, Yu-Xiang Wang. <br />
-Working Paper.
 
 ### Data-driven Dynamic Pricing with procedural and sustantive fairness. <br />
 **Jianyu Xu** et al. <br />

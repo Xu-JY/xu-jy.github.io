@@ -12,7 +12,7 @@ redirect_from:
 
 &nbsp; &nbsp; Welcome to my homepage! I am a postdoctoral research associate at Carnegie Mellon University, Machine Learning Department, working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/) on *online decision making*.
 
-&nbsp;&nbsp; I recently got my PhD in Computer Science at UC Santa Barbara, advised by Prof. [Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/). Before that, I got my B.S. from Tsinghua University in 2019, advised by [Prof. Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
+&nbsp;&nbsp; I got my PhD in Computer Science at UC Santa Barbara in 2024, where I was fortunately advised by Prof. [Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/). Before that, I got my B.S. from Tsinghua University in 2019, fortunately advised by [Prof. Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
 
 <!--
 &nbsp; &nbsp;  Welcome to my homepage! I just got my PhD in Computer Science at University of California, Santa Barbara, where I was fortunately being advised by [Prof. Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/). Before that, I got my B.S. (in Measurement & Control) from Tsinghua University in 2019, where I am advised by [Prof. Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
@@ -26,7 +26,7 @@ redirect_from:
 -->
 
 
-&nbsp; &nbsp; My <u>research interest</u> lies broadly in **statistical machine learning** and **online learning** problems. My most recent projects are on *dynamic pricing*. Besides, I also worked on graph theory and computational complexity during my undergraduate. 
+&nbsp; &nbsp; My <u>research interest</u> lies broadly in **on-line machine learning** and **learning theory** problems. My most recent projects are on *dynamic pricing*. Besides, I also worked on graph theory and computational complexity during my undergraduate. 
 
 
 
@@ -36,6 +36,8 @@ redirect_from:
 <br /><br />
 -->
 # News and Events
+
+Feb 2025. &nbsp; &nbsp; &nbsp; &nbsp; Our manuscript ["Dynamic Pricing with Adversarially-Censored Demands"](http://arxiv.org/abs/2502.06168) is posted on ArXiv. Thanks to my collaborators Yining, Xi and Yu-Xiang!
 
 Jan 2025. &nbsp; &nbsp; &nbsp; &nbsp; Our manuscript ["Joint Pricing and Resource Allocation: An Optimal Online-Learning Approach"](https://arxiv.org/abs/2501.18049) is posted on ArXiv. Thanks to my collaborators Xuan, Yu-Xiang and Jiashuo!
 
