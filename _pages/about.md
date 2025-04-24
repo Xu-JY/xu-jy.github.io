@@ -36,6 +36,7 @@ redirect_from:
 <br /><br />
 -->
 # News and Events
+Apr 2025. &nbsp; &nbsp; &nbsp; &nbsp; Glad to serve as reviewers for *Journal of Machine Learning Research* (JMLR) and *Mathematics of Operations Research* (Math-OR) !
 
 Feb 2025. &nbsp; &nbsp; &nbsp; &nbsp; Our manuscript ["Dynamic Pricing with Adversarially-Censored Demands"](http://arxiv.org/abs/2502.06168) is posted on ArXiv. Thanks to my collaborators Yining, Xi and Yu-Xiang!
 
@@ -53,9 +54,10 @@ Aug 2024. &nbsp; &nbsp; &nbsp; &nbsp; Successfully defended my PhD degree :-D
 
 May 2024. &nbsp; &nbsp; &nbsp; &nbsp; Our paper "Pricing with Contextual Elasticity and Heteroscedastic Valuation" got accepted by *ICML 2024* and selected as **spotlight presentation** (top 3%)! The preprint version is posted [here](https://arxiv.org/abs/2312.15999) on ArXiv.
 
+<!--
 Nov 2023. &nbsp; &nbsp; &nbsp; &nbsp; Glad to receive the **Outstanding Reviewer Award** again at *NeurIPS*!
 
-<!--
+
 Oct 2023. &nbsp; &nbsp; &nbsp; &nbsp; I'm giving a talk on *pricing fairness* at INFORMS 2023 Annual Meeting. See you at Phoenix!
 
 Oct 2023. &nbsp; &nbsp; &nbsp; &nbsp; Our delayed research results on *the NP-hardness of tensor network contraction ordering* have been posted on Arxiv ultimately.  Thanks Hanwen and all co-authors!
