@@ -10,9 +10,9 @@ redirect_from:
 
 
 
-&nbsp; &nbsp; Welcome to my homepage! I am a postdoctoral research associate at Carnegie Mellon University, Machine Learning Department, working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/) on *online decision making*.
+&nbsp; &nbsp; Welcome to my homepage! I am a postdoctoral research associate at the Machine Learning Department (MLD) of Carnegie Mellon University (CMU). I am fortunately working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/).
 
-&nbsp;&nbsp; I got my PhD in Computer Science at UC Santa Barbara in 2024, where I was fortunately advised by Prof. [Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/). Before that, I got my B.S. from Tsinghua University in 2019, fortunately advised by [Prof. Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
+&nbsp;&nbsp; I got my PhD in Computer Science at UC Santa Barbara in 2024, where I was fortunately advised by Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/). Before that, I got my B.S. from Tsinghua University in 2019, fortunately advised by [Prof. Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
 
 <!--
 &nbsp; &nbsp;  Welcome to my homepage! I just got my PhD in Computer Science at University of California, Santa Barbara, where I was fortunately being advised by [Prof. Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/). Before that, I got my B.S. (in Measurement & Control) from Tsinghua University in 2019, where I am advised by [Prof. Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
@@ -26,7 +26,7 @@ redirect_from:
 -->
 
 
-&nbsp; &nbsp; My <u>research interest</u> lies broadly in **on-line machine learning** and **learning theory** problems. My most recent projects are on *dynamic pricing*. Besides, I also worked on graph theory and computational complexity during my undergraduate. 
+&nbsp; &nbsp; My <u>research interest</u> lies broadly in **on-line machine learning** and **learning theory** problems. Currently I am developing online decision-making strategies in *constrained generative* scenarios. During my PhD (and ongoing), I have been doing a series of work on *dynamic pricing*. Besides, I also worked on graph theory and combinatorics out of personal interests. 
 
 
 
