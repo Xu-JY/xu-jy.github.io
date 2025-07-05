@@ -7,6 +7,10 @@ author_profile: true
 
 ## Conference Talks:
 
+&nbsp;&nbsp;       Contextual Bandits with Online Arm Generation, on *Midwest ML Symposium* 2025, Chicago.
+
+&nbsp;&nbsp;       Decisions and Machine Learning in Maternal Health, on *AI-SDM* Student Session, Pittsburgh, Mar 2025.
+
 &nbsp;&nbsp;       Pricing with Adversarial Inventories, on *INFORMS* 2024 Annual Meeting, Seattle.
 
 &nbsp;&nbsp;       Online Dynamic Pricing with Inventory-Censored Demand, on *ITA* 2024, San Diego.
@@ -22,6 +26,10 @@ author_profile: true
 
 
 ## Reading Group Presentations:
+
+&nbsp;&nbsp;       LLM for In-Context Exploration & Exploitation, Mar 2025, CMU.
+
+&nbsp;&nbsp;       Decisions and Machine Learning in Maternal Health, Feb 2025, CMU.
 
 &nbsp;&nbsp;       Introduction to Zeroth-order Optimization, Feb 2024, UCSB.
 
