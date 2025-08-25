@@ -17,7 +17,10 @@ redirect_from:
 &nbsp; &nbsp; During my PhD (and ongoing), I have been doing a series of work on *dynamic pricing*. Besides, I also worked on graph theory and combinatorics out of personal interests. 
 
 
-&nbsp; &nbsp; ### I am currently on the 2025–26 job market, and welcome opportunities for <span style="color:red"> academic </span> and <span style="color:red"> industrial </span> research positions. Please check my [CV here](/files/CV_Jianyu_XU_202508.pdf) for more details.
+### &nbsp; &nbsp; I am currently on the 2025–26 job market, and welcome opportunities for <span style="color:red"> academic </span> and <span style="color:red"> industrial </span> research positions. Please check my [CV here](/files/CV_Jianyu_XU_202508.pdf) for more details.
+
+<br /><br />
+<br /><br />
 
 <!--
 &nbsp; &nbsp;  Welcome to my homepage! I just got my PhD in Computer Science at University of California, Santa Barbara, where I was fortunately being advised by [Prof. Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/). Before that, I got my B.S. (in Measurement & Control) from Tsinghua University in 2019, where I am advised by [Prof. Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
