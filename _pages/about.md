@@ -12,14 +12,12 @@ redirect_from:
 
 &nbsp; &nbsp; Welcome to my homepage! I am a postdoctoral research associate at the Machine Learning Department (MLD) of Carnegie Mellon University (CMU), working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/). Before joining CMU, I got my PhD in Computer Science at UC Santa Barbara in 2024, advised by Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/). Even before that, I got my B.S. from Tsinghua University in 2019, advised by Prof. [Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
 
-&nbsp; &nbsp; My current <u>research interest</u> lies in **Generative Online Learning**. Specifically, I develop *provable* methodologies to actively generate new actions (at a cost) while simultaneously learning from existing ones, ensuring optimal performance guarantee under constraints. Beyond the traditional balance of *exploration* and *exploitation*, my works introduce a third dimension, **creation**, by integrating generative AI into real-time decision-making. This framework offers exciting potentials in scenarios where timely, adaptive, and safe strategies are critical but costly, such as healthcare and disaster management.
-
-&nbsp; &nbsp; On the application side, I am leading a project of developing a *maternal health* chatbot system that generates healthcare content under autonomous guardrails. To make this, we design a guideline-oriented responder that combines RAG with LLM, and a confidence-based evaluator that learns from few-shot examples.
+&nbsp; &nbsp; My current <u>research interest</u> lies in **Generative Online Learning**. Specifically, I develop *provable* methodologies to actively generate new actions while simultaneously learning from existing ones. Beyond the traditional balance of *exploration* and *exploitation*, my works introduce a third dimension --**creation**-- by integrating generative AI into real-time decision-making. On the application side, I am leading a project of developing a *maternal health* chatbot system that generates healthcare content under autonomous guardrails.
 
 &nbsp; &nbsp; During my PhD (and ongoing), I have been doing a series of work on *dynamic pricing*. Besides, I also worked on graph theory and combinatorics out of personal interests. 
 
 
-### I am currently on the 2025–26 job market, and welcome opportunities for <span style="color:red"> academic and industrial </span> research positions. Please check my [CV here](/files/CV_Jianyu_XU_202508.pdf) for more details.
+&nbsp; &nbsp; ### I am currently on the 2025–26 job market, and welcome opportunities for <span style="color:red"> academic </span> and <span style="color:red"> industrial </span> research positions. Please check my [CV here](/files/CV_Jianyu_XU_202508.pdf) for more details.
 
 <!--
 &nbsp; &nbsp;  Welcome to my homepage! I just got my PhD in Computer Science at University of California, Santa Barbara, where I was fortunately being advised by [Prof. Yu-Xiang Wang](https://sites.cs.ucsb.edu/~yuxiangw/). Before that, I got my B.S. (in Measurement & Control) from Tsinghua University in 2019, where I am advised by [Prof. Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
