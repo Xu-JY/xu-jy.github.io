@@ -17,7 +17,7 @@ redirect_from:
 &nbsp; &nbsp; During my PhD (and ongoing), I have been doing a series of work on *dynamic pricing*. Besides, I also worked on graph theory and combinatorics out of personal interests. 
 
 
-### &nbsp; &nbsp; I am currently on the 2025–26 job market, and welcome opportunities for <span style="color:red"> academic </span> and <span style="color:red"> industrial </span> research positions.
+### &nbsp; &nbsp; I am currently on the 2025–26 job market, and welcome opportunities for <span style="color:red"> academic </span> and <span style="color:red"> industrial </span> research positions. Please check my [CV here](/files/CV_Jianyu_XU_202508.pdf) for more details.
 
 <br /><br />
 <br /><br />
