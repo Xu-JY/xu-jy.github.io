@@ -17,7 +17,7 @@ redirect_from:
 &nbsp; &nbsp; During my PhD (and ongoing), I have been doing a series of work on *dynamic pricing*. Besides, I also worked on graph theory and combinatorics out of personal interests. 
 
 
-### &nbsp; &nbsp; I am currently on the 2025–26 job market, and welcome opportunities for <span style="color:red"> academic </span> and <span style="color:red"> industrial </span> research positions. Please check my [CV here](/files/CV_Jianyu_XU_202508.pdf) for more details.
+### &nbsp; &nbsp; I am currently on the 2025–26 job market, and welcome opportunities for <span style="color:red"> academic </span> and <span style="color:red"> industrial </span> research positions. Please check my [CV here](/files/CV_Jianyu_XU_202509.pdf) for more details.
 
 <br /><br />
 <br /><br />
@@ -45,10 +45,13 @@ Please check my [CV here](/files/CV_Jianyu_XU_202508.pdf) for more details.
 <br /><br />
 <br /><br />
 -->
-# News and Events
-Apr 2025. &nbsp; &nbsp; &nbsp; &nbsp; Glad to serve as reviewers for *Journal of Machine Learning Research* (JMLR) and *Mathematics of Operations Research* (Math-OR) !
 
-Feb 2025. &nbsp; &nbsp; &nbsp; &nbsp; Our manuscript ["Dynamic Pricing with Adversarially-Censored Demands"](http://arxiv.org/abs/2502.06168) is posted on ArXiv. Thanks to my collaborators Yining, Xi and Yu-Xiang!
+
+# News and Events
+
+Sep 2025. &nbsp; &nbsp; &nbsp; &nbsp; Our paper "Dynamic Pricing with Adversarially-Censored Demands" is accepted by *WINE 2025*! Thanks to my collaborators Yining, Xi and Yu-Xiang! The preprint version is posted [here](http://arxiv.org/abs/2502.06168) on ArXiv.
+
+Apr 2025. &nbsp; &nbsp; &nbsp; &nbsp; Glad to serve as reviewers for *Journal of Machine Learning Research* (JMLR) and *Mathematics of Operations Research* (Math-OR)!
 
 Jan 2025. &nbsp; &nbsp; &nbsp; &nbsp; Our manuscript ["Joint Pricing and Resource Allocation: An Optimal Online-Learning Approach"](https://arxiv.org/abs/2501.18049) is posted on ArXiv. Thanks to my collaborators Xuan, Yu-Xiang and Jiashuo!
 

@@ -15,10 +15,6 @@ author_profile: true
 **Jianyu Xu**, Vidhi Jain, Bryan Wilder, Aarti Singh. <br />
 *In submission.*
 
-### Dynamic Pricing with Adversarially-Censored Demands. ([link](http://arxiv.org/abs/2502.06168)) <br />
-**Jianyu Xu**, Yining Wang, Xi Chen, Yu-Xiang Wang. <br />
-arXiv: 2502.06168. *In submission.*
-
 ### Pricing and Allocation with Service-Level Concerns. ([link](https://arxiv.org/abs/2501.18049)) <br />
 **Jianyu Xu**, Xuan Wang, Yu-Xiang Wang, Jiashuo Jiang. <br />
 arXiv: 2501.18049. *In submission.*
@@ -56,6 +52,10 @@ arXiv: 2310.06140
 
 -->
 ## Conference Publications
+
+### Dynamic Pricing with Adversarially-Censored Demands. ([link](http://arxiv.org/abs/2502.06168)) <br />
+**Jianyu Xu**, Yining Wang, Xi Chen, Yu-Xiang Wang. <br />
+in *WINE 2025*.
 
 ### Pricing with Contextual Elasticity and Heteroscedastic Valuation. ([link](https://arxiv.org/abs/2312.15999)) <br />
 **Jianyu Xu**, Yu-Xiang Wang. <br />
