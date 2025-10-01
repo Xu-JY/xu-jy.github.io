@@ -49,7 +49,9 @@ Please check my [CV here](/files/CV_Jianyu_XU_202508.pdf) for more details.
 
 # News and Events
 
-Sep 2025. &nbsp; &nbsp; &nbsp; &nbsp; Our paper "Dynamic Pricing with Adversarially-Censored Demands" is accepted by *WINE 2025*! Thanks to my collaborators Yining, Xi and Yu-Xiang! The preprint version is posted [here](http://arxiv.org/abs/2502.06168) on ArXiv.
+Sep 2025. &nbsp; &nbsp; &nbsp; &nbsp; Two papers will be presented on *[NeurIPS 2025 MLxOR Workshop](https://mlxor-workshop.github.io/)*: One is about ["Joint Pricing and Resource Allocation: An Optimal Online-Learning Approach"](https://arxiv.org/abs/2501.18049), and the other "Online Decision Making with Generative Action Sets" (available soon). See you at San Diego on Dec 1-7!
+
+Sep 2025. &nbsp; &nbsp; &nbsp; &nbsp; Our paper "Dynamic Pricing with Adversarially-Censored Demands" is accepted by *WINE 2025*! Thanks to my collaborators Yining, Xi and Yu-Xiang! The preprint version is posted [here](http://arxiv.org/abs/2502.06168) on ArXiv. See you at New Brunswick on Dec 7-10!
 
 Apr 2025. &nbsp; &nbsp; &nbsp; &nbsp; Glad to serve as reviewers for *Journal of Machine Learning Research* (JMLR) and *Mathematics of Operations Research* (Math-OR)!
 
