@@ -11,9 +11,9 @@ author_profile: true
 
 ## Preprints and Working Papers
 
-### Online Decision Making with Generative Action Sets. <br />
+### Online Decision Making with Generative Action Sets. ([link](https://arxiv.org/abs/2509.25777)) <br />
 **Jianyu Xu**, Vidhi Jain, Bryan Wilder, Aarti Singh. <br />
-*In submission.* Preliminary version being presented on *NeurIPS 2025 [MLxOR](https://mlxor-workshop.github.io/) Workshop*
+arXiv: 2509.25777. *In submission.* Preliminary version being presented on *NeurIPS 2025 [MLxOR](https://mlxor-workshop.github.io/) Workshop*
 
 ### Pricing and Allocation with Service-Level Concerns. ([link](https://arxiv.org/abs/2501.18049)) <br />
 **Jianyu Xu**, Xuan Wang, Yu-Xiang Wang, Jiashuo Jiang. <br />
