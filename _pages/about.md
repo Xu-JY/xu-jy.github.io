@@ -12,7 +12,7 @@ redirect_from:
 
 &nbsp; &nbsp; Welcome to my homepage! I am a postdoctoral research associate at the Machine Learning Department (MLD) of Carnegie Mellon University (CMU), working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/). Before joining CMU, I got my PhD in Computer Science at UC Santa Barbara in 2024, advised by Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/). Even before that, I got my B.S. from Tsinghua University in 2019, advised by Prof. [Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
 
-- &nbsp; &nbsp; I am broadly interested in online learning and decision-making under uncertainty:
+- I am broadly interested in online learning and decision-making under uncertainty:
   - Theoretic foundations:
     - Generative online learning with provable guarantees.
     - Online optimization with non-convex structures.
