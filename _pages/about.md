@@ -49,6 +49,8 @@ Please check my [CV here](/files/CV_Jianyu_XU_202508.pdf) for more details.
 
 # News and Events
 
+Oct 2025. &nbsp; &nbsp; &nbsp; &nbsp; Glad to receive NeurIPS Top Reviewer for the 3<sup>rd</sup> time!
+
 Oct 2025. &nbsp; &nbsp; &nbsp; &nbsp; Our manuscript ["Online Decision Making with Generative Action Sets"](https://arxiv.org/abs/2509.25777) is posted on ArXiv. Thanks to my collaborator Vidhi, and my advisors Bryan and Aarti!
 
 Sep 2025. &nbsp; &nbsp; &nbsp; &nbsp; Two papers will be presented on *[NeurIPS 2025 MLxOR Workshop](https://mlxor-workshop.github.io/)*. See you at San Diego on Dec 1-7!
