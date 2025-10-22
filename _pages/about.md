@@ -12,14 +12,25 @@ redirect_from:
 
 &nbsp; &nbsp; Welcome to my homepage! I am a postdoctoral research associate at the Machine Learning Department (MLD) of Carnegie Mellon University (CMU), working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/). Before joining CMU, I got my PhD in Computer Science at UC Santa Barbara in 2024, advised by Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/). Even before that, I got my B.S. from Tsinghua University in 2019, advised by Prof. [Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
 
-- I am broadly interested in online learning and decision-making under uncertainty:
-  - Theoretic foundations:
-    - Generative online learning with provable guarantees.
-    - Online optimization with non-convex structures.
-    - Dynamic pricing algorithms for complex markets.
-  - Applications:
-    - AI-driven decision support for high-stakes healthcare applications.
-    - AI-assisted mathematical reasoning and automated theorem proving.
+<ul>
+  <li>I am broadly interested in online learning and decision-making under uncertainty:
+    <ul>
+      <li>Theoretic foundations:
+        <ul>
+          <li>Generative online learning with provable guarantees.</li>
+          <li>Online optimization with non-convex structures.</li>
+          <li>Dynamic pricing algorithms for complex markets.</li>
+        </ul>
+      </li>
+      <li>Applications:
+        <ul>
+          <li>AI-driven decision support for high-stakes healthcare applications.</li>
+          <li>AI-assisted mathematical reasoning and automated theorem proving.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 &nbsp; &nbsp; My <u> current research</u> lies in **Generative Online Learning**. Specifically, I develop *provable* methodologies to actively generate new actions while simultaneously learning from existing ones. Beyond the traditional balance of *exploration* and *exploitation*, my works introduce a third dimension --**creation**-- by integrating generative AI into real-time decision-making. On the application side, I am leading a project of developing a *maternal health* chatbot system that generates healthcare content under autonomous guardrails.
 
