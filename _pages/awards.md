@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-&nbsp; &nbsp; 2025.10 &nbsp; &nbsp; &nbsp; &nbsp; NeurIPS 2023 Top Reviewer Award, (**8%**)
+&nbsp; &nbsp; 2025.10 &nbsp; &nbsp; &nbsp; &nbsp; NeurIPS 2025 Top Reviewer Award, (**8%**)
 
 &nbsp; &nbsp; 2023.11 &nbsp; &nbsp; &nbsp; &nbsp; NeurIPS 2023 Top Reviewer Award, (**8%**)
 
