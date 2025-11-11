@@ -31,7 +31,7 @@ About **Generative Online Learning**: With the help of Generative AI, now decisi
 -->
 
 
-### &nbsp; &nbsp; I am currently on the 2025–26 job market, and welcome opportunities for <span style="color:red"> academic </span> and <span style="color:red"> industrial </span> research positions. Please check my [CV here](/files/CV_Jianyu_XU_202510.pdf) for more details.
+### &nbsp; &nbsp; I am currently on the 2025–26 job market, and welcome opportunities for <span style="color:red"> academic </span> and <span style="color:red"> industrial </span> research positions. Please check my [CV here](/files/CV_Jianyu_XU_202511.pdf) for more details.
 
 <br /><br />
 <br /><br />
