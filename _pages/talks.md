@@ -27,6 +27,8 @@ author_profile: true
 
 ## Reading Group Presentations:
 
+&nbsp;&nbsp;       Generative Bandits, Nov 2025, CMU.
+
 &nbsp;&nbsp;       LLM for In-Context Exploration & Exploitation, Mar 2025, CMU.
 
 &nbsp;&nbsp;       Decisions and Machine Learning in Maternal Health, Feb 2025, CMU.
@@ -42,6 +44,11 @@ author_profile: true
 &nbsp;&nbsp;       Dynamic Pricing in High Dimensions, Nov 2020, UCSB. [slides](/talks/20201110_reading_group_slides.pdf)
 
 ## Tutorials:
+
+
+
+### AI-Aided Decisions in Maternal Health Chatbot
+In AI-SDM High School Educator Workshop (2025.07), CMU Heinz College and CMU Africa Campus (2025.10). 
 
 ### Dynamic Pricing as an Online Decision-Making Problem
 In Ant Finance (2021.07), LAMDA (2023.03), Statistics Center at Academy of Science (2024.01).
