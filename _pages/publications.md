@@ -55,7 +55,7 @@ arXiv: 2310.06140
 
 ### Dynamic Pricing with Adversarially-Censored Demands. ([link](http://arxiv.org/abs/2502.06168)) <br />
 **Jianyu Xu**, Yining Wang, Xi Chen, Yu-Xiang Wang. <br />
-in *WINE 2025*.
+in *WINE 2025*. (**<span style="color:red">Oral Presentation</span>**)
 
 ### Pricing with Contextual Elasticity and Heteroscedastic Valuation. ([link](https://arxiv.org/abs/2312.15999)) <br />
 **Jianyu Xu**, Yu-Xiang Wang. <br />
