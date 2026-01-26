@@ -11,9 +11,12 @@ author_profile: true
 
 ## Preprints and Working Papers
 
-### Online Decision Making with Generative Action Sets. ([link](https://arxiv.org/abs/2509.25777)) <br />
-**Jianyu Xu**, Vidhi Jain, Bryan Wilder, Aarti Singh. <br />
-arXiv: 2509.25777. *In submission.* Preliminary version being presented on *NeurIPS 2025 [MLxOR](https://mlxor-workshop.github.io/) Workshop*
+
+### Developing and evaluating a chatbot to support maternal health care. <br />
+Smriti Jha, Vidhi Jain, **Jianyu Xu**, Grace Liu, Sowmya Ramesh, Jitender Nagpal, Grechen Chapman, Benjamin Bellows, Siddhartha Goyal, Aarti Singh, and Bryan Wilder. <br />
+*In submission*.
+
+
 
 ### Pricing and Allocation with Service-Level Concerns. ([link](https://arxiv.org/abs/2501.18049)) <br />
 **Jianyu Xu**, Xuan Wang, Yu-Xiang Wang, Jiashuo Jiang. <br />
@@ -53,9 +56,13 @@ arXiv: 2310.06140
 -->
 ## Conference Publications
 
+### Online Decision Making with Generative Action Sets. ([link](https://arxiv.org/abs/2509.25777)) <br />
+**Jianyu Xu**, Vidhi Jain, Bryan Wilder, Aarti Singh. <br />
+in *ICLR 2026*.
+
 ### Dynamic Pricing with Adversarially-Censored Demands. ([link](http://arxiv.org/abs/2502.06168)) <br />
 **Jianyu Xu**, Yining Wang, Xi Chen, Yu-Xiang Wang. <br />
-in *WINE 2025*. (**<span style="color:red">Oral Presentation</span>**)
+in *WINE 2025*. (**<span style="color:red">Oral Presentation</span>**, full version forwarding to *Operations Research*)
 
 ### Pricing with Contextual Elasticity and Heteroscedastic Valuation. ([link](https://arxiv.org/abs/2312.15999)) <br />
 **Jianyu Xu**, Yu-Xiang Wang. <br />

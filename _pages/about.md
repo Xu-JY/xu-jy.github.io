@@ -31,7 +31,7 @@ About **Generative Online Learning**: With the help of Generative AI, now decisi
 -->
 
 
-### &nbsp; &nbsp; I am currently on the 2025–26 job market, and welcome opportunities for <span style="color:red"> academic </span> and <span style="color:red"> industrial </span> research positions. Please check my [CV here](/files/CV_Jianyu_XU_202511.pdf) for more details.
+### &nbsp; &nbsp; I am currently on the 2025–26 job market, and welcome opportunities for <span style="color:red"> academic </span> and <span style="color:red"> industrial </span> research positions. Please check my [CV here](/files/CV_Jianyu_XU_202601.pdf) for more details.
 
 <br /><br />
 <br /><br />
@@ -63,9 +63,9 @@ Please check my [CV here](/files/CV_Jianyu_XU_202508.pdf) for more details.
 
 # News and Events
 
-Oct 2025. &nbsp; &nbsp; &nbsp; &nbsp; Glad to receive NeurIPS Top Reviewer for the 3<sup>rd</sup> time!
+Jan 2026. &nbsp; &nbsp; &nbsp; &nbsp; Our paper ["Online Decision Making with Generative Action Sets"](https://arxiv.org/abs/2509.25777) is accepted by *ICLR 2026*! Thanks to my collaborators Vidhi, and my advisors Bryan and Aarti!
 
-Oct 2025. &nbsp; &nbsp; &nbsp; &nbsp; Our manuscript ["Online Decision Making with Generative Action Sets"](https://arxiv.org/abs/2509.25777) is posted on ArXiv. Thanks to my collaborator Vidhi, and my advisors Bryan and Aarti!
+Oct 2025. &nbsp; &nbsp; &nbsp; &nbsp; Glad to receive NeurIPS Top Reviewer for the 3<sup>rd</sup> time!
 
 Sep 2025. &nbsp; &nbsp; &nbsp; &nbsp; Two papers will be presented on *[NeurIPS 2025 MLxOR Workshop](https://mlxor-workshop.github.io/)*. See you at San Diego on Dec 1-7!
 
