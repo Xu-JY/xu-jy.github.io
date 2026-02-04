@@ -7,6 +7,8 @@ author_profile: true
 
 ## Conference Talks:
 
+&nbsp;&nbsp;       Dynamic Pricing with Adversarially-Censored Demands, on *WINE* 2025, Rutgers University.
+
 &nbsp;&nbsp;       Contextual Bandits with Online Arm Generation, on *Midwest ML Symposium* 2025, Chicago.
 
 &nbsp;&nbsp;       Decisions and Machine Learning in Maternal Health, on *AI-SDM* Student Session, Pittsburgh, Mar 2025.
