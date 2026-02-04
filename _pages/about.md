@@ -18,7 +18,7 @@ I am broadly interested in **online learning** and decision-making under uncerta
   - <u>Online optimization</u> with non-convex structures.
   - <u>Dynamic pricing</u> algorithms for complex markets.
 - Applications:
-  - AI-driven decision support for high-stakes <u>healthcare</u> applications.
+  - AI-driven <u>healthcare</u> decision support.
   - AI-assisted <u>mathematical reasoning</u> and automated theorem proving.
 
 
