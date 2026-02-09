@@ -24,8 +24,22 @@
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
 <!-- MapMyVisitors / ClustrMaps-like widget -->
+<!-- 
 <div class="visitor-map" style="text-align:center; margin-top: 1rem;">
   <script type="text/javascript" id="mapmyvisitors"
     src="//mapmyvisitors.com/map.js?d=5UBfdQj7Bibzx5DLcLfUKX2udJIP_lNdmwJFTmVUC5E&cl=ffffff&w=320">
   </script>
 </div>
+-->
+<div class="visitor-map">
+  <script type="text/javascript" id="mapmyvisitors"
+    src="https://mapmyvisitors.com/map.js?d=5UBfdQj7Bibzx5DLcLfUKX2udJIP_lNdmwJFTmVUC5E&cl=ffffff&w=1"></script>
+</div>
+
+<style>
+  .visitor-map iframe,
+  .visitor-map a {
+    pointer-events: none;
+    cursor: default;
+  }
+</style>
