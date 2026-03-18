@@ -12,7 +12,7 @@ author_profile: true
 ## Preprints and Working Papers
 
 
-### Developing and evaluating a chatbot to support maternal health care. <br />
+### Developing and evaluating a chatbot to support maternal health care. ([link](https://arxiv.org/abs/2603.13168)) <br />
 Smriti Jha, Vidhi Jain, **Jianyu Xu**, Grace Liu, Sowmya Ramesh, Jitender Nagpal, Grechen Chapman, Benjamin Bellows, Siddhartha Goyal, Aarti Singh, and Bryan Wilder. <br />
 *In submission*.
 
