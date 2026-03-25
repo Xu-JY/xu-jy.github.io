@@ -71,21 +71,15 @@ Sep 2025. &nbsp; &nbsp; &nbsp; &nbsp; Two papers will be presented on *[NeurIPS 
 
 Sep 2025. &nbsp; &nbsp; &nbsp; &nbsp; Our paper "Dynamic Pricing with Adversarially-Censored Demands" is accepted by *WINE 2025*! Thanks to my collaborators Yining, Xi and Yu-Xiang! The preprint version is posted [here](http://arxiv.org/abs/2502.06168) on ArXiv. See you at New Brunswick on Dec 7-10!
 
-Apr 2025. &nbsp; &nbsp; &nbsp; &nbsp; Glad to serve as reviewers for *Journal of Machine Learning Research* (JMLR) and *Mathematics of Operations Research* (Math-OR)!
-
 Jan 2025. &nbsp; &nbsp; &nbsp; &nbsp; Our manuscript ["Joint Pricing and Resource Allocation: An Optimal Online-Learning Approach"](https://arxiv.org/abs/2501.18049) is posted on ArXiv. Thanks to my collaborators Xuan, Yu-Xiang and Jiashuo!
-
-Jan 2025. &nbsp; &nbsp; &nbsp; &nbsp; Glad to serve as a reviewer for *Journal of the American Statistical Association* (JASA) !
 
 Dec 2024. &nbsp; &nbsp; &nbsp; &nbsp; Glad to serve as an **Area Chair** in **ICML** 2025!
 
-Oct 2024. &nbsp; &nbsp; &nbsp; &nbsp; I'm giving a talk on *adversarial dynamic pricing* at INFORMS 2024 Annual Meeting. See you at Seattle!
 
 Sep 2024. &nbsp; &nbsp; &nbsp; &nbsp; Very excited to join CMU MLD as a postdoc!
 
 Aug 2024. &nbsp; &nbsp; &nbsp; &nbsp; Successfully defended my PhD degree :-D
 
-May 2024. &nbsp; &nbsp; &nbsp; &nbsp; Our paper "Pricing with Contextual Elasticity and Heteroscedastic Valuation" got accepted by *ICML 2024* and selected as **spotlight presentation** (top 3%)! The preprint version is posted [here](https://arxiv.org/abs/2312.15999) on ArXiv.
 
 <!--
 Nov 2023. &nbsp; &nbsp; &nbsp; &nbsp; Glad to receive the **Outstanding Reviewer Award** again at *NeurIPS*!
