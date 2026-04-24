@@ -10,28 +10,32 @@ redirect_from:
 
 
 
-Welcome to my homepage! I am a postdoctoral research associate at the Machine Learning Department (MLD) of Carnegie Mellon University (CMU), working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/). Before joining CMU, I got my PhD in Computer Science at UC Santa Barbara in 2024, advised by Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/). Even before that, I got my B.S. from Tsinghua University in 2019, advised by Prof. [Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
+&nbsp; &nbsp; Welcome to my homepage! I am a postdoctoral research associate at the Machine Learning Department of Carnegie Mellon University, working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/). Before joining CMU, I got my PhD in Computer Science at UC Santa Barbara in 2024, advised by Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/). Even before that, I got my B.S. from Tsinghua University in 2019, advised by Prof. [Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
 
-I am broadly interested in **online learning** and decision-making under uncertainty:
+&nbsp; &nbsp; Starting 2026 Fall, I will be joining the College of Computing and Informatics (CCI) at **University of North Carolina at Charlotte** as an **Assistant Professor**. I am actively recruiting PhD students with strong passions in methodological research, as well as outstanding capabilities in (math OR statistics OR combinatorics) AND (vibe coding). Please kindly send your CV to <tt>jxu22 at charlotte doe edu</tt> if you are interested in any topics listed below.
+
+ &nbsp; &nbsp; **Research Interests**: I am broadly interested in **online learning** and decision-making under uncertainty:
 - Theoretic foundations:
-  - <u>Generative online learning</u> with provable guarantees.
-  - <u>Online optimization</u> with non-convex structures.
-  - <u>Dynamic pricing</u> algorithms for complex markets.
+  - <u>Generative decision making</u> (see below).
+  - <u>Dynamic pricing</u> under constraints.
+  - <u>Online optimization</u> with non-convexity.
 - Applications:
   - AI-driven <u>healthcare</u> decision support.
-  - AI-assisted <u>mathematical reasoning</u> and automated theorem proving.
+  - In-context decision planning for <u>finance and markets </u>.
+<!--  - AI-assisted <u>mathematical reasoning</u> and automated theorem proving. -->
 
 
-About **Generative Online Learning**: With the help of Generative AI, now decision-makers may generate *new* and *customized* actions beyond learning on existing action sets. Beyond the traditional balance of exploration and exploitation, my works introduce a third dimension --**creation**-- by developing provable algorithms to actively decide *when* to generate and *what* to generate given streams of contexts coming on-the-fly.
+About **Generative Decision-Making**: With the help of Generative AI, now decision-makers may generate *new* and *customized* actions beyond learning on existing action sets. Beyond the traditional balance of exploration and exploitation, my works introduce a third dimension --**creation**-- by developing provable algorithms to actively decide *when* to generate and *what* to generate given streams of contexts coming on-the-fly. See our recent ICLR-26 paper [here](https://arxiv.org/abs/2509.25777) as a preliminary demo.
 
 <!--
 &nbsp; &nbsp; My <u> current research</u> lies in **Generative Online Learning**. Specifically, I develop *provable* methodologies to actively generate new actions while simultaneously learning from existing ones. Beyond the traditional balance of *exploration* and *exploitation*, my works introduce a third dimension --**creation**-- by integrating generative AI into real-time decision-making. On the application side, I am leading a project of developing a *maternal health* chatbot system that generates healthcare content under autonomous guardrails.
 
 &nbsp; &nbsp; During my PhD (and ongoing), I have been doing a series of work on *dynamic pricing*. Besides, I also worked on graph theory and combinatorics out of personal interests. 
--->
+
 
 
 ### &nbsp; &nbsp; I am currently on the 2025–26 job market, and welcome opportunities for <span style="color:red"> academic </span> and <span style="color:red"> industrial </span> research positions. Please check my [CV here](/files/CV_Jianyu_XU_202601.pdf) for more details.
+-->
 
 <br /><br />
 <br /><br />
