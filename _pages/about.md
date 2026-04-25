@@ -12,7 +12,7 @@ redirect_from:
 
 &nbsp; &nbsp; Welcome to my homepage! I am a postdoctoral research associate at the Machine Learning Department of Carnegie Mellon University, working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/). Before joining CMU, I got my PhD in Computer Science at UC Santa Barbara in 2024, advised by Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/). Even before that, I got my B.S. from Tsinghua University in 2019, advised by Prof. [Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
 
-&nbsp; &nbsp; Starting 2026 Fall, I will be joining the College of Computing and Informatics (CCI) at **University of North Carolina at Charlotte** as an **Assistant Professor**. I am actively recruiting PhD students with strong passions in methodological research, as well as outstanding capabilities in (math *OR* statistics *OR* combinatorics) *AND* (vibe coding). Please kindly send your CV to <tt>jxu22 at charlotte dot edu</tt> if you are interested in any topics listed below.
+<!-- &nbsp; &nbsp; Starting 2026 Fall, I will be joining the College of Computing and Informatics (CCI) at **University of North Carolina at Charlotte** as an **Assistant Professor**. I am actively recruiting PhD students with strong passions in methodological research, as well as outstanding capabilities in (math *OR* statistics *OR* combinatorics) *AND* (vibe coding). Please kindly send your CV to <tt>jxu22 at charlotte dot edu</tt> if you are interested in any topics listed below. -->
 
  &nbsp; &nbsp; **Research Interests**: I am broadly interested in **online learning** under uncertainty:
 - Theoretic foundations:
