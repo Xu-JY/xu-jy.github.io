@@ -67,7 +67,9 @@ Please check my [CV here](/files/CV_Jianyu_XU_202508.pdf) for more details.
 
 # News and Events
 
-May 2025. &nbsp; &nbsp; &nbsp; &nbsp; Our manuscript ["Optimal Contextual Pricing under Agnostic Non-Lipschitz Demand"](https://arxiv.org/abs/2605.05609) is posted on ArXiv. This result finally closes the long-existing regret gap of feature-based dynamic pricing with linear & noisy valuation. Thanks to Yu-Xiang!
+May 2026. &nbsp; &nbsp; &nbsp; &nbsp; Our manuscript ["Optimal Contextual Pricing under Agnostic Non-Lipschitz Demand"](https://arxiv.org/abs/2605.05609) is posted on ArXiv. This result finally closes the long-existing regret gap of feature-based dynamic pricing with linear & noisy valuation. Thanks to Yu-Xiang!
+
+Mar 2026. &nbsp; &nbsp; &nbsp; &nbsp; Our manyscript [](https://arxiv.org/abs/2603.13168) is posted on ArXiv. This work comprehensively documents the procedure of our developing a **maternal healthcare chatbot** with a RAG-LLM framework, along with carefully-designed safety guardrails and calibrated evaluation criterias. Thanks to Smriti and Vidhi for the consistent efforts on this pipeline development, and to all collaborators from the U.S. and India.
 
 Jan 2026. &nbsp; &nbsp; &nbsp; &nbsp; Our paper ["Online Decision Making with Generative Action Sets"](https://arxiv.org/abs/2509.25777) is accepted by *ICLR 2026*! Thanks to my collaborators Vidhi, and my advisors Bryan and Aarti!
 
@@ -81,13 +83,13 @@ Jan 2025. &nbsp; &nbsp; &nbsp; &nbsp; Our manuscript ["Joint Pricing and Resourc
 
 Dec 2024. &nbsp; &nbsp; &nbsp; &nbsp; Glad to serve as an **Area Chair** in **ICML** 2025!
 
-
+<!--
 Sep 2024. &nbsp; &nbsp; &nbsp; &nbsp; Very excited to join CMU MLD as a postdoc!
 
 Aug 2024. &nbsp; &nbsp; &nbsp; &nbsp; Successfully defended my PhD degree :-D
 
 
-<!--
+
 Nov 2023. &nbsp; &nbsp; &nbsp; &nbsp; Glad to receive the **Outstanding Reviewer Award** again at *NeurIPS*!
 
 
