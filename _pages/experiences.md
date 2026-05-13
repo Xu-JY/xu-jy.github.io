@@ -40,6 +40,8 @@ author_profile: true
 
 ### Conference Program Committee
 
+&nbsp; &nbsp; *NeurIPS* 2026, Area Chair
+
 &nbsp; &nbsp; *ICML* 2025, Area Chair
 
 &nbsp; &nbsp; *NeurIPS* 2022, Oral Session Chair
