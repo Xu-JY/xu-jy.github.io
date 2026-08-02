@@ -22,7 +22,7 @@ Smriti Jha, Vidhi Jain, **Jianyu Xu**, Grace Liu, Sowmya Ramesh, Jitender Nagpal
 
 
 
-### Pricing and Allocation with Service-Level Concerns. ([link](https://arxiv.org/abs/2501.18049)) <br />
+### Online Pricing and Allocation with Demand Learning and Fulfillment Cost. ([link](https://arxiv.org/abs/2501.18049)) <br />
 **Jianyu Xu**, Xuan Wang, Yu-Xiang Wang, Jiashuo Jiang. <br />
 arXiv: 2501.18049. *In submission.* Preliminary version being presented on *NeurIPS 2025 [MLxOR](https://mlxor-workshop.github.io/) Workshop*
 
