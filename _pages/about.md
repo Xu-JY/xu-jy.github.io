@@ -10,9 +10,9 @@ redirect_from:
 
 
 
-&nbsp; &nbsp; Welcome to my homepage! I am a postdoctoral research associate at the Machine Learning Department of Carnegie Mellon University, working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/). Before joining CMU, I got my PhD in Computer Science at UC Santa Barbara in 2024, advised by Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/). Even before that, I got my B.S. from Tsinghua University in 2019, advised by Prof. [Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
+&nbsp; &nbsp; Welcome to my homepage! I am an Assistant Professor in the College of Computing and Informatics (CCI) at **University of North Carolina at Charlotte**. Before joining UNC Charlotte, I was a postdoc at the Machine Learning Department of Carnegie Mellon University, working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/). Before joining CMU, I got my PhD in Computer Science at UC Santa Barbara in 2024, advised by Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/). Even before that, I got my B.S. from Tsinghua University in 2019, advised by Prof. [Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
 
-&nbsp; &nbsp; Starting Fall 2026, I will be joining the College of Computing and Informatics (CCI) at **University of North Carolina at Charlotte** as an **Assistant Professor**. I am actively recruiting PhD students with strong passions in methodological research, as well as outstanding math and coding capabilities. Please kindly send your CV to <tt>jxu22 at charlotte dot edu</tt> if you are interested in any topics listed below.
+&nbsp; &nbsp; I am actively recruiting PhD students with strong passions in methodological research, as well as outstanding math and coding capabilities.
 
  &nbsp; &nbsp; **Research Interests**: I am broadly interested in **online learning** and **decision making**:
 - Theoretic foundations:
@@ -65,6 +65,8 @@ Please check my [CV here](/files/CV_Jianyu_XU_202508.pdf) for more details.
 
 
 # News and Events
+
+Aug 2026. &nbsp; &nbsp; &nbsp; &nbsp; I will be teaching [(ITCS 3153) Introduction to Artificial Intelligence](https://instructure.charlotte.edu/courses/270609) in Fall 2026 Semester at UNC Charlotte. Go Niners!
 
 May 2026. &nbsp; &nbsp; &nbsp; &nbsp; Glad to receive a travel grant from Association of Chinese Scholars in Computing! I will be attending SOFC 2026 at Santa Clara University on Jun 19-21.
 
