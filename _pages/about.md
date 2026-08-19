@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-&nbsp; &nbsp; Welcome to my homepage! I am an Assistant Professor in the College of Computing and Informatics (CCI) at **University of North Carolina at Charlotte**. Before joining UNC Charlotte, I was a postdoc at the Machine Learning Department of Carnegie Mellon University, working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/). Before joining CMU, I got my PhD in Computer Science at UC Santa Barbara in 2024, advised by Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/). Even before that, I got my B.S. from Tsinghua University in 2019, advised by Prof. [Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
+&nbsp; &nbsp; Welcome to my homepage! I am an Assistant Professor of Machine Learning at the University of North Carolina at Charlotte. Before joining UNC Charlotte, I was a postdoc at the Machine Learning Department of Carnegie Mellon University, working with Prof. [Aarti Singh](https://www.cs.cmu.edu/~aarti/) and Prof. [Bryan Wilder](https://bryanwilder.github.io/). Before joining CMU, I got my PhD in Computer Science at UC Santa Barbara in 2024, advised by Prof. [Yu-Xiang Wang](https://cseweb.ucsd.edu/~yuxiangw/). Even before that, I got my B.S. from Tsinghua University in 2019, advised by Prof. [Guoqi Li](https://people.ucas.edu.cn/~liguoqi).
 
 &nbsp; &nbsp; I am actively recruiting PhD students with strong passions in methodological research, as well as outstanding math and coding capabilities.
 

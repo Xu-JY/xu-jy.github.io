@@ -8,8 +8,11 @@ author_profile: true
 ## Appointments
 ### Academic
 
+&nbsp;&nbsp; Assistant Professor at the *University of North Carolina at Charlotte*, Machine Learning Department. <br>
+&nbsp;&nbsp; Charlotte, 2026.08-current. <br>
+
 &nbsp;&nbsp; Postdoctoral Research Associate at *Carnegie Mellon University*, Machine Learning Department. <br>
-&nbsp;&nbsp; Pittsburgh, 2024.09-current. <br>
+&nbsp;&nbsp; Pittsburgh, 2024.09-2026.08. <br>
 
 &nbsp;&nbsp; Visiting Scholar at *Hong Kong University of Science and Technology*, Business School. <br>
 &nbsp;&nbsp; Hong Kong SAR, Summer 2024. <br>
