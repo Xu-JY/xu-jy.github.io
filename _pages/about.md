@@ -14,17 +14,17 @@ redirect_from:
 
 &nbsp; &nbsp; I am actively recruiting PhD students with strong passions in methodological research, as well as outstanding math and coding capabilities.
 
- &nbsp; &nbsp; **Research Interests**: I am broadly interested in **online learning** and **decision making**:
-- Theoretic foundations:
-  - <u>Generative decision making</u> (see below).
-  - <u>Dynamic pricing</u> under constraints.
-- Applications:
-  - <u>AI evaluation</u> and calibration in high-stake domains (e.g. healthcare).
-  - In-context learning & planning for <u>business and finance </u>.
+ &nbsp; &nbsp; **Research Interests**: I am broadly interested in **resource-aware** machine learning and decision making, with a growing focus on adaptive and agentic systems. A central question here is how a learner should allocate limited resources -- not only across actions, but also toward acquiring information, generating new actions, and improving the decision-making system itself. Topics include:
+- Online generative decisions (see below).
+- Self-evolving agents.
+- Cost-efficient labeling and evaluating.
+- Dynamic pricing, resource allocation, market making.
+
+
 <!--  - AI-assisted <u>mathematical reasoning</u> and automated theorem proving. -->
 
 
-About **Generative Decision-Making**: With the help of Generative AI, now decision-makers may generate *new* and *customized* actions beyond learning on existing action sets. Beyond the traditional balance of exploration and exploitation, my works introduce a third dimension --**creation**-- by developing provable algorithms to actively decide *when* to generate and *what* to generate given streams of contexts coming on-the-fly. See our recent ICLR-26 paper [here](https://arxiv.org/abs/2509.25777) as a preliminary demo.
+About **Online Generative Decisions**: With the help of Generative AI, now decision-makers may generate *new* and *customized* actions beyond learning on existing action sets. Beyond the traditional balance of exploration and exploitation, my works introduce a third dimension --**creation**-- by developing provable algorithms to actively decide *when* to generate and *what* to generate given streams of contexts coming on-the-fly. See our recent ICLR-26 paper [here](https://arxiv.org/abs/2509.25777) as a preliminary demo.
 
 <!--
 &nbsp; &nbsp; My <u> current research</u> lies in **Generative Online Learning**. Specifically, I develop *provable* methodologies to actively generate new actions while simultaneously learning from existing ones. Beyond the traditional balance of *exploration* and *exploitation*, my works introduce a third dimension --**creation**-- by integrating generative AI into real-time decision-making. On the application side, I am leading a project of developing a *maternal health* chatbot system that generates healthcare content under autonomous guardrails.
