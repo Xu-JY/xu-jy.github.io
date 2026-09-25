@@ -70,9 +70,9 @@ Aug 2026. &nbsp; &nbsp; &nbsp; &nbsp; I will be teaching [(ITCS 3153) Introducti
 
 May 2026. &nbsp; &nbsp; &nbsp; &nbsp; Glad to receive a travel grant from Association of Chinese Scholars in Computing! I will be attending SOFC 2026 at Santa Clara University on Jun 19-21.
 
-May 2026. &nbsp; &nbsp; &nbsp; &nbsp; Our manuscript ["Optimal Contextual Pricing under Agnostic Non-Lipschitz Demand"](https://arxiv.org/abs/2605.05609) is posted on ArXiv. This result finally closes the long-existing regret gap of feature-based dynamic pricing with linear & noisy valuation. Thanks to Yu-Xiang!
+May 2026. &nbsp; &nbsp; &nbsp; &nbsp; Our manuscript ["Optimal Contextual Pricing under Agnostic Non-Lipschitz Demand"](https://arxiv.org/abs/2605.05609) is posted on ArXiv. This result finally closes the long-existing regret gap of feature-based dynamic pricing with linear & noisy valuation. Thanks to Yu-Xiang! \[UPDATE Sep 2026\]: It just got accepted at NeurIPS 2026.
 
-Mar 2026. &nbsp; &nbsp; &nbsp; &nbsp; Our manyscript [](https://arxiv.org/abs/2603.13168) is posted on ArXiv. This work comprehensively documents the procedure of our developing a **maternal healthcare chatbot** with a RAG-LLM framework, along with carefully-designed safety guardrails and calibrated evaluation criterias. Thanks to Smriti and Vidhi for the consistent efforts on this pipeline development, and to all collaborators from the U.S. and India.
+Mar 2026. &nbsp; &nbsp; &nbsp; &nbsp; Our manyscript ["Developing and evaluating a chatbot to support maternal health care"](https://arxiv.org/abs/2603.13168) is posted on ArXiv. This work comprehensively documents the procedure of our developing a **maternal healthcare chatbot** with a RAG-LLM framework, along with carefully-designed safety guardrails and calibrated evaluation criterias. Thanks to Smriti and Vidhi for the consistent efforts on this pipeline development, and to all collaborators from the U.S. and India.
 
 Jan 2026. &nbsp; &nbsp; &nbsp; &nbsp; Our paper ["Online Decision Making with Generative Action Sets"](https://arxiv.org/abs/2509.25777) is accepted by *ICLR 2026*! Thanks to my collaborators Vidhi, and my advisors Bryan and Aarti!
 

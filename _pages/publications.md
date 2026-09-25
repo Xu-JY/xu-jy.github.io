@@ -11,9 +11,7 @@ author_profile: true
 
 ## Preprints and Working Papers
 
-### Optimal Contextual Pricing under Agnostic Non-Lipschitz Demand. ([link](https://arxiv.org/abs/2605.05609)) <br />
-**Jianyu Xu**, and Yu-Xiang Wang. <br />
-*In submission*.
+
 
 
 ### Developing and evaluating a chatbot to support maternal health care. ([link](https://arxiv.org/abs/2603.13168)) <br />
@@ -59,6 +57,10 @@ arXiv: 2310.06140
 
 -->
 ## Conference Publications
+
+### Optimal Contextual Pricing under Agnostic Non-Lipschitz Demand. ([link](https://arxiv.org/abs/2605.05609)) <br />
+**Jianyu Xu**, and Yu-Xiang Wang. <br />
+in *NeurIPS 2026*.
 
 ### Online Decision Making with Generative Action Sets. ([link](https://arxiv.org/abs/2509.25777)) <br />
 **Jianyu Xu**, Vidhi Jain, Bryan Wilder, Aarti Singh. <br />
