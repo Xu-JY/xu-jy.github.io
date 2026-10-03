@@ -11,7 +11,13 @@ author_profile: true
 
 ## Preprints and Working Papers
 
+### When should Agents Build Reusable Tools? ([link](http://dx.doi.org/10.2139/ssrn.7545498)) <br />
+**Jianyu Xu**, Bryan Wilder, Aarti Singh. <br />
+SSRN 7545498
 
+### When Is Coarse Supervision Worth It? Cost-Aware Learning under Unknown Aggregation. ([link](https://arxiv.org/abs/2609.36704)) <br />
+**Jianyu Xu**, Smriti Jha, Aarti Singh, Bryan Wilder. <br />
+arXiv: 2609.36704
 
 
 ### Developing and evaluating a chatbot to support maternal health care. ([link](https://arxiv.org/abs/2603.13168)) <br />

@@ -16,8 +16,8 @@ redirect_from:
 
  &nbsp; &nbsp; **Research Interests**: I am broadly interested in **resource-aware** machine learning and decision making, with a growing focus on adaptive and agentic systems. A central question here is how a learner should allocate limited resources -- not only across actions, but also toward acquiring information, generating new actions, and improving the decision-making system itself. Topics include:
 - Online generative decisions (see below).
-- Self-evolving agents.
-- Cost-efficient labeling and evaluating.
+- Self-evolving agents (see [this recent paper](http://dx.doi.org/10.2139/ssrn.7545498)).
+- Cost-efficient labeling and evaluating (see [this paper](https://arxiv.org/abs/2609.36704)).
 - Dynamic pricing, resource allocation, market making.
 
 
