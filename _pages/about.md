@@ -66,13 +66,13 @@ Please check my [CV here](/files/CV_Jianyu_XU_202508.pdf) for more details.
 
 # News and Events
 
-May 2026. &nbsp; &nbsp; &nbsp; &nbsp; Our manuscript ["Optimal Contextual Pricing under Agnostic Non-Lipschitz Demand"](https://arxiv.org/abs/2605.05609) is accepted at *NeurIPS 2026*. This result finally closes the long-existing regret gap of feature-based dynamic pricing with linear & noisy valuation. Thanks to Yu-Xiang!
+Sep 2026. &nbsp; &nbsp; &nbsp; &nbsp; Our manyscripts ["When Is Coarse Supervision Worth It? Cost-Aware Learning under Unknown Aggregation."](https://arxiv.org/abs/2609.36704) and ["When should Agents Build Reusable Tools?"](http://dx.doi.org/10.2139/ssrn.7545498) are posted on ArXiv and SSRN, respectively. These works serve as preliminary milestones of my studies in resource-aware machine learning and decision making.
+
+Sep 2026. &nbsp; &nbsp; &nbsp; &nbsp; Our paper ["Optimal Contextual Pricing under Agnostic Non-Lipschitz Demand"](https://arxiv.org/abs/2605.05609) is accepted at *NeurIPS 2026*. This result finally closes the long-existing regret gap of feature-based dynamic pricing with linear & noisy valuation. Thanks to Yu-Xiang!
 
 Aug 2026. &nbsp; &nbsp; &nbsp; &nbsp; I will be teaching [(ITCS 3153) Introduction to Artificial Intelligence](https://instructure.charlotte.edu/courses/270609) in Fall 2026 Semester at UNC Charlotte. Go Niners!
 
 May 2026. &nbsp; &nbsp; &nbsp; &nbsp; Glad to receive a travel grant from Association of Chinese Scholars in Computing! I will be attending SOFC 2026 at Santa Clara University on Jun 19-21.
-
-
 
 Mar 2026. &nbsp; &nbsp; &nbsp; &nbsp; Our manyscript ["Developing and evaluating a chatbot to support maternal health care"](https://arxiv.org/abs/2603.13168) is posted on ArXiv. This work comprehensively documents the procedure of our developing a **maternal healthcare chatbot** with a RAG-LLM framework, along with carefully-designed safety guardrails and calibrated evaluation criterias. Thanks to Smriti and Vidhi for the consistent efforts on this pipeline development, and to all collaborators from the U.S. and India.
 
