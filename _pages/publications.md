@@ -19,22 +19,9 @@ SSRN 7545498
 **Jianyu Xu**, Smriti Jha, Aarti Singh, Bryan Wilder. <br />
 arXiv: 2609.36704
 
-
-### Developing and evaluating a chatbot to support maternal health care. ([link](https://arxiv.org/abs/2603.13168)) <br />
-Smriti Jha, Vidhi Jain, **Jianyu Xu**, Grace Liu, Sowmya Ramesh, Jitender Nagpal, Grechen Chapman, Benjamin Bellows, Siddhartha Goyal, Aarti Singh, and Bryan Wilder. <br />
-*In submission*.
-
-
-
 ### Online Pricing and Allocation with Demand Learning and Fulfillment Cost. ([link](https://arxiv.org/abs/2501.18049)) <br />
 **Jianyu Xu**, Xuan Wang, Yu-Xiang Wang, Jiashuo Jiang. <br />
 arXiv: 2501.18049. *In submission.* Preliminary version being presented on *NeurIPS 2025 [MLxOR](https://mlxor-workshop.github.io/) Workshop*
-
-<!--
-### Data-driven Dynamic Pricing with procedural and sustantive fairness. <br />
-**Jianyu Xu** et al. <br />
-Working Paper
--->
 
 ### NP-hardness of Tensor Network Contraction Ordering. ([link](https://arxiv.org/abs/2310.06140)) <br />
 **Jianyu Xu**, Hanwen Zhang, Lei Deng, Guoqi Li. <br />
@@ -63,6 +50,10 @@ arXiv: 2310.06140
 
 -->
 ## Conference Publications
+
+### MATRI: Building and Evaluating a Safety-Aware Multilingual Maternal Health Assistant. ([link](https://arxiv.org/abs/2603.13168)) <br />
+Smriti Jha, Vidhi Jain, **Jianyu Xu**, Grace Liu, Sowmya Ramesh, Jitender Nagpal, Grechen Chapman, Benjamin Bellows, Siddhartha Goyal, Aarti Singh, and Bryan Wilder. <br />
+in *ML4H 2026*.
 
 ### Optimal Contextual Pricing under Agnostic Non-Lipschitz Demand. ([link](https://arxiv.org/abs/2605.05609)) <br />
 **Jianyu Xu**, and Yu-Xiang Wang. <br />
